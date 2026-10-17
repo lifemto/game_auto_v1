@@ -1,0 +1,6061 @@
+{
+  "startup_wechat_home_icon": {
+    "file": "templates/startup_wechat_home_icon.png",
+    "source": "templates_capture/user_20261015/wechat_home.png",
+    "crop_frame": [
+      239,
+      862,
+      313,
+      941
+    ],
+    "search_roi_raw": [
+      300,
+      1300,
+      600,
+      1580
+    ],
+    "threshold": 0.83
+  },
+  "startup_wechat_chat_title": {
+    "file": "templates/startup_wechat_chat_title.png",
+    "source": "templates_capture/user_20261015/wechat_chat.png",
+    "crop_frame": [
+      150,
+      65,
+      297,
+      94
+    ],
+    "search_roi_raw": [
+      220,
+      70,
+      550,
+      185
+    ],
+    "threshold": 0.82
+  },
+  "startup_wechat_list_title": {
+    "file": "templates/startup_wechat_list_title.png",
+    "source": "templates_capture/user_20261015/wechat_list.png",
+    "crop_frame": [
+      184,
+      64,
+      233,
+      94
+    ],
+    "search_roi_raw": [
+      230,
+      70,
+      490,
+      190
+    ],
+    "threshold": 0.82
+  },
+  "startup_wechat_recent_title": {
+    "file": "templates/startup_wechat_recent_title.png",
+    "source": "templates_capture/user_20261015/wechat_recent_alt.png",
+    "crop_frame": [
+      201,
+      63,
+      248,
+      94
+    ],
+    "search_roi_raw": [
+      230,
+      70,
+      490,
+      195
+    ],
+    "threshold": 0.83
+  },
+  "startup_game_recent_icon": {
+    "file": "templates/startup_game_recent_icon.png",
+    "source": "templates_capture/user_20261015/wechat_recent.png",
+    "crop_frame": [
+      149,
+      225,
+      203,
+      288
+    ],
+    "search_roi_raw": [
+      20,
+      280,
+      700,
+      740
+    ],
+    "threshold": 0.83
+  },
+  "startup_game_promo_title": {
+    "file": "templates/startup_game_promo_title.png",
+    "source": "templates_capture/user_20261015/game_promo.png",
+    "crop_frame": [
+      23,
+      607,
+      338,
+      739
+    ],
+    "search_roi_raw": [
+      0,
+      840,
+      670,
+      1280
+    ],
+    "threshold": 0.82
+  },
+  "startup_game_loading": {
+    "file": "templates/startup_game_loading.png",
+    "source": "templates_capture/user_20261015/game_loading.png",
+    "crop_frame": [
+      193,
+      341,
+      288,
+      548
+    ],
+    "search_roi_raw": [
+      240,
+      440,
+      540,
+      1030
+    ],
+    "threshold": 0.8
+  },
+  "chest_next_cao_cao": {
+    "file": "templates/chest_next_cao_cao.png",
+    "source": "runtime/debug/20261015_100951_306261_chest_go_unavailable.png",
+    "crop_frame": [
+      231,
+      1358,
+      380,
+      1400
+    ],
+    "search_roi_raw": [
+      170,
+      1300,
+      540,
+      1450
+    ],
+    "threshold": 0.84
+  },
+  "gather_level_8": {
+    "file": "templates/gather_level_8.png",
+    "source": "runtime/debug/20261015_103800_744926_gather_farm_result_unconfirmed.png",
+    "crop_frame": [
+      270,
+      328,
+      353,
+      365
+    ],
+    "search_roi_raw": [
+      230,
+      280,
+      420,
+      405
+    ],
+    "threshold": 0.83
+  },
+  "gather_collector_none": {
+    "file": "templates/gather_collector_none.png",
+    "source": "runtime/debug/20261015_103800_744926_gather_farm_result_unconfirmed.png",
+    "crop_frame": [
+      536,
+      448,
+      586,
+      490
+    ],
+    "search_roi_raw": [
+      480,
+      410,
+      610,
+      525
+    ],
+    "threshold": 0.83
+  },
+  "caravan_city_icon": {
+    "file": "templates/caravan_city_icon.png",
+    "source": "templates_capture/user_20261015/caravan_city.png",
+    "crop_frame": [
+      15,
+      633,
+      61,
+      685
+    ],
+    "search_roi_raw": [
+      0,
+      860,
+      190,
+      1330
+    ],
+    "threshold": 0.83
+  },
+  "caravan_page_title": {
+    "file": "templates/caravan_page_title.png",
+    "source": "templates_capture/user_20261015/caravan_page.png",
+    "crop_frame": [
+      180,
+      101,
+      269,
+      136
+    ],
+    "search_roi_raw": [
+      245,
+      100,
+      490,
+      270
+    ],
+    "threshold": 0.86
+  },
+  "caravan_plus": {
+    "file": "templates/caravan_plus.png",
+    "source": "templates_capture/user_20261015/caravan_page.png",
+    "crop_frame": [
+      199,
+      407,
+      258,
+      471
+    ],
+    "search_roi_raw": [
+      270,
+      550,
+      465,
+      1320
+    ],
+    "threshold": 0.8
+  },
+  "caravan_dialog_title": {
+    "file": "templates/caravan_dialog_title.png",
+    "source": "templates_capture/user_20261015/caravan_dialog.png",
+    "crop_frame": [
+      150,
+      225,
+      304,
+      258
+    ],
+    "search_roi_raw": [
+      210,
+      325,
+      510,
+      500
+    ],
+    "threshold": 0.84
+  },
+  "caravan_like_message": {
+    "file": "templates/caravan_like_message.png",
+    "source": "templates_capture/user_20261015/caravan_dialog.png",
+    "crop_frame": [
+      43,
+      679,
+      204,
+      736
+    ],
+    "search_roi_raw": [
+      35,
+      1040,
+      365,
+      1260
+    ],
+    "threshold": 0.8
+  },
+  "caravan_joined_pin": {
+    "file": "templates/caravan_joined_pin.png",
+    "source": "templates_capture/user_20261015/caravan_joined.png",
+    "crop_frame": [
+      261,
+      642,
+      287,
+      675
+    ],
+    "search_roi_raw": [
+      360,
+      580,
+      530,
+      1330
+    ],
+    "threshold": 0.8
+  },
+  "welcome_claim": {
+    "file": "templates/welcome_claim.png",
+    "source": "image(20261010-051321).png",
+    "crop_screenshot": [
+      139,
+      724,
+      307,
+      790
+    ],
+    "expected_rect_raw": [
+      225,
+      1148,
+      499,
+      1256
+    ],
+    "search_roi_raw": [
+      0,
+      1051,
+      726,
+      1353
+    ],
+    "threshold": 0.68
+  },
+  "top_gift": {
+    "file": "templates/top_gift.png",
+    "source": "image(20261010-051406).png",
+    "crop_screenshot": [
+      196,
+      153,
+      253,
+      196
+    ],
+    "expected_rect_raw": [
+      318,
+      216,
+      411,
+      286
+    ],
+    "search_roi_raw": [
+      235,
+      153,
+      494,
+      349
+    ],
+    "threshold": 0.64
+  },
+  "help_hand": {
+    "file": "templates/help_hand.png",
+    "source": "image(20261010-051511).png",
+    "crop_screenshot": [
+      248,
+      880,
+      290,
+      928
+    ],
+    "expected_rect_raw": [
+      403,
+      1402,
+      471,
+      1481
+    ],
+    "search_roi_raw": [
+      342,
+      1331,
+      532,
+      1552
+    ],
+    "threshold": 0.64
+  },
+  "main_alliance": {
+    "file": "templates/main_alliance.png",
+    "source": "image(20261010-051545).png",
+    "crop_screenshot": [
+      240,
+      936,
+      292,
+      1000
+    ],
+    "expected_rect_raw": [
+      390,
+      1494,
+      475,
+      1598
+    ],
+    "search_roi_raw": [
+      314,
+      1401,
+      551,
+      1600
+    ],
+    "threshold": 0.68
+  },
+  "main_crusade": {
+    "file": "templates/main_crusade.png",
+    "source": "image(20261010-051545).png",
+    "crop_screenshot": [
+      12,
+      936,
+      92,
+      1000
+    ],
+    "expected_rect_raw": [
+      18,
+      1494,
+      148,
+      1598
+    ],
+    "search_roi_raw": [
+      0,
+      1401,
+      265,
+      1600
+    ],
+    "threshold": 0.68
+  },
+  "main_generals": {
+    "file": "templates/main_generals.png",
+    "source": "image(20261010-051545).png",
+    "crop_screenshot": [
+      96,
+      936,
+      148,
+      1000
+    ],
+    "expected_rect_raw": [
+      155,
+      1494,
+      240,
+      1598
+    ],
+    "search_roi_raw": [
+      79,
+      1401,
+      316,
+      1600
+    ],
+    "threshold": 0.68
+  },
+  "alliance_tech": {
+    "file": "templates/alliance_tech.png",
+    "source": "image(20261010-051623).png",
+    "crop_screenshot": [
+      228,
+      561,
+      424,
+      623
+    ],
+    "expected_rect_raw": [
+      370,
+      882,
+      690,
+      983
+    ],
+    "search_roi_raw": [
+      82,
+      792,
+      726,
+      1073
+    ],
+    "threshold": 0.68
+  },
+  "alliance_gift": {
+    "file": "templates/alliance_gift.png",
+    "source": "image(20261010-051623).png",
+    "crop_screenshot": [
+      23,
+      499,
+      205,
+      559
+    ],
+    "expected_rect_raw": [
+      36,
+      780,
+      333,
+      878
+    ],
+    "search_roi_raw": [
+      0,
+      692,
+      600,
+      966
+    ],
+    "threshold": 0.68
+  },
+  "tech_hand": {
+    "file": "templates/tech_hand.png",
+    "source": "image(20261010-051717).png",
+    "crop_screenshot": [
+      175,
+      713,
+      270,
+      850
+    ],
+    "expected_rect_raw": [
+      284,
+      1130,
+      439,
+      1353
+    ],
+    "search_roi_raw": [
+      145,
+      930,
+      578,
+      1553
+    ],
+    "threshold": 0.64
+  },
+  "donate_blue": {
+    "file": "templates/donate_blue.png",
+    "source": "image(20261010-051746).png",
+    "crop_screenshot": [
+      224,
+      739,
+      429,
+      808
+    ],
+    "expected_rect_raw": [
+      364,
+      1172,
+      698,
+      1285
+    ],
+    "search_roi_raw": [
+      64,
+      1071,
+      726,
+      1386
+    ],
+    "threshold": 0.72
+  },
+  "donate_grey": {
+    "file": "templates/donate_grey.png",
+    "source": "image(20261010-051824).png",
+    "crop_screenshot": [
+      224,
+      739,
+      429,
+      808
+    ],
+    "expected_rect_raw": [
+      364,
+      1172,
+      698,
+      1285
+    ],
+    "search_roi_raw": [
+      64,
+      1071,
+      726,
+      1386
+    ],
+    "threshold": 0.72
+  },
+  "gift_oneclick_green": {
+    "file": "templates/gift_oneclick_green.png",
+    "source": "image(20261010-051903).png",
+    "crop_screenshot": [
+      121,
+      861,
+      326,
+      929
+    ],
+    "expected_rect_raw": [
+      196,
+      1371,
+      530,
+      1482
+    ],
+    "search_roi_raw": [
+      0,
+      1272,
+      726,
+      1581
+    ],
+    "threshold": 0.72
+  },
+  "gift_oneclick_grey": {
+    "file": "templates/gift_oneclick_grey.png",
+    "source": "image(20261010-052010).png",
+    "crop_screenshot": [
+      121,
+      861,
+      326,
+      929
+    ],
+    "expected_rect_raw": [
+      196,
+      1371,
+      530,
+      1482
+    ],
+    "search_roi_raw": [
+      0,
+      1272,
+      726,
+      1581
+    ],
+    "threshold": 0.72
+  },
+  "reward_continue": {
+    "file": "templates/reward_continue.png",
+    "source": "image(20261010-051936).png",
+    "crop_screenshot": [
+      165,
+      935,
+      286,
+      997
+    ],
+    "expected_rect_raw": [
+      268,
+      1492,
+      465,
+      1593
+    ],
+    "search_roi_raw": [
+      91,
+      1402,
+      642,
+      1600
+    ],
+    "threshold": 0.68
+  },
+  "crusade_gift": {
+    "file": "templates/crusade_gift.png",
+    "source": "image(20261010-052036).png",
+    "crop_screenshot": [
+      278,
+      755,
+      346,
+      808
+    ],
+    "expected_rect_raw": [
+      452,
+      1198,
+      563,
+      1285
+    ],
+    "search_roi_raw": [
+      353,
+      1120,
+      662,
+      1363
+    ],
+    "threshold": 0.64
+  },
+  "crusade_claim": {
+    "file": "templates/crusade_claim.png",
+    "source": "image(20261010-052108).png",
+    "crop_screenshot": [
+      120,
+      675,
+      327,
+      738
+    ],
+    "expected_rect_raw": [
+      194,
+      1068,
+      532,
+      1171
+    ],
+    "search_roi_raw": [
+      0,
+      976,
+      726,
+      1263
+    ],
+    "threshold": 0.72
+  },
+  "recruit_entry": {
+    "file": "templates/recruit_entry.png",
+    "source": "image(20261010-052205).png",
+    "crop_screenshot": [
+      142,
+      930,
+      298,
+      992
+    ],
+    "expected_rect_raw": [
+      230,
+      1484,
+      485,
+      1585
+    ],
+    "search_roi_raw": [
+      1,
+      1394,
+      714,
+      1600
+    ],
+    "threshold": 0.68
+  },
+  "recruit_free": {
+    "file": "templates/recruit_free.png",
+    "source": "image(20261010-052228).png",
+    "crop_screenshot": [
+      32,
+      653,
+      202,
+      721
+    ],
+    "expected_rect_raw": [
+      51,
+      1032,
+      328,
+      1143
+    ],
+    "search_roi_raw": [
+      0,
+      933,
+      577,
+      1242
+    ],
+    "threshold": 0.72
+  },
+  "recruit_result_paid_again": {
+    "file": "templates/recruit_result_paid_again.png",
+    "source": "image(20261010-052256).png",
+    "crop_screenshot": [
+      122,
+      826,
+      324,
+      891
+    ],
+    "expected_rect_raw": [
+      197,
+      1314,
+      527,
+      1420
+    ],
+    "search_roi_raw": [
+      0,
+      1219,
+      726,
+      1515
+    ],
+    "threshold": 0.68
+  },
+  "page_alliance_home": {
+    "file": "templates/page_alliance_home.png",
+    "source": "image(20261010-051623).png",
+    "crop_screenshot": [
+      110,
+      110,
+      340,
+      165
+    ],
+    "expected_rect_raw": [
+      179,
+      176,
+      552,
+      264
+    ],
+    "search_roi_raw": [
+      130,
+      144,
+      601,
+      296
+    ],
+    "threshold": 0.9
+  },
+  "page_alliance_tech": {
+    "file": "templates/page_alliance_tech.png",
+    "source": "image(20261010-051717).png",
+    "crop_screenshot": [
+      110,
+      110,
+      340,
+      165
+    ],
+    "expected_rect_raw": [
+      179,
+      176,
+      552,
+      264
+    ],
+    "search_roi_raw": [
+      130,
+      144,
+      601,
+      296
+    ],
+    "threshold": 0.85
+  },
+  "page_alliance_gift": {
+    "file": "templates/page_alliance_gift.png",
+    "source": "image(20261010-051903).png",
+    "crop_screenshot": [
+      110,
+      110,
+      340,
+      165
+    ],
+    "expected_rect_raw": [
+      179,
+      176,
+      552,
+      264
+    ],
+    "search_roi_raw": [
+      130,
+      144,
+      601,
+      296
+    ],
+    "threshold": 0.9
+  },
+  "page_crusade": {
+    "file": "templates/page_crusade.png",
+    "source": "image(20261010-052036).png",
+    "crop_screenshot": [
+      80,
+      200,
+      370,
+      320
+    ],
+    "expected_rect_raw": [
+      130,
+      320,
+      601,
+      511
+    ],
+    "search_roi_raw": [
+      65,
+      272,
+      666,
+      559
+    ],
+    "threshold": 0.9
+  },
+  "page_generals": {
+    "file": "templates/page_generals.png",
+    "source": "image(20261010-052205).png",
+    "crop_screenshot": [
+      110,
+      110,
+      340,
+      165
+    ],
+    "expected_rect_raw": [
+      179,
+      176,
+      552,
+      264
+    ],
+    "search_roi_raw": [
+      130,
+      144,
+      601,
+      296
+    ],
+    "threshold": 0.9
+  },
+  "page_recruit": {
+    "file": "templates/page_recruit.png",
+    "source": "image(20261010-052326).png",
+    "crop_screenshot": [
+      48,
+      425,
+      218,
+      470
+    ],
+    "expected_rect_raw": [
+      78,
+      679,
+      354,
+      751
+    ],
+    "search_roi_raw": [
+      32,
+      647,
+      390,
+      783
+    ],
+    "threshold": 0.88
+  },
+  "page_recruit_wechat": {
+    "file": "templates/page_recruit_wechat.png",
+    "source": "runtime/debug/20261012_163235_567701_unknown_start_page.png",
+    "crop_screenshot": [
+      30,
+      230,
+      530,
+      570
+    ],
+    "expected_rect_raw": [
+      30,
+      230,
+      530,
+      570
+    ],
+    "search_roi_raw": [
+      0,
+      190,
+      726,
+      650
+    ],
+    "threshold": 0.88
+  },
+  "page_donation_popup": {
+    "file": "templates/page_donation_popup.png",
+    "source": "image(20261010-051746).png",
+    "crop_screenshot": [
+      125,
+      225,
+      325,
+      265
+    ],
+    "expected_rect_raw": [
+      203,
+      360,
+      528,
+      424
+    ],
+    "search_roi_raw": [
+      146,
+      328,
+      577,
+      456
+    ],
+    "threshold": 0.84
+  },
+  "page_crusade_reward_popup": {
+    "file": "templates/page_crusade_reward_popup.png",
+    "source": "image(20261010-052108).png",
+    "crop_screenshot": [
+      125,
+      310,
+      325,
+      350
+    ],
+    "expected_rect_raw": [
+      203,
+      496,
+      528,
+      559
+    ],
+    "search_roi_raw": [
+      146,
+      456,
+      577,
+      599
+    ],
+    "threshold": 0.84
+  },
+  "page_recruit_result": {
+    "file": "templates/page_recruit_result.png",
+    "source": "image(20261010-052256).png",
+    "crop_screenshot": [
+      100,
+      270,
+      347,
+      345
+    ],
+    "expected_rect_raw": [
+      162,
+      432,
+      564,
+      551
+    ],
+    "search_roi_raw": [
+      97,
+      376,
+      625,
+      607
+    ],
+    "threshold": 0.88
+  },
+  "page_recruit_no_free": {
+    "file": "templates/page_recruit_no_free.png",
+    "source": "image(20261010-145221).png",
+    "crop_screenshot": [
+      40,
+      850,
+      405,
+      935
+    ],
+    "expected_rect_raw": [
+      65,
+      1359,
+      658,
+      1495
+    ],
+    "search_roi_raw": [
+      24,
+      1319,
+      698,
+      1526
+    ],
+    "threshold": 0.84
+  },
+  "main_daily_entry": {
+    "file": "templates/main_daily_entry.png",
+    "source": "image(20261010-150312).png",
+    "crop_screenshot": [
+      17,
+      844,
+      55,
+      884
+    ],
+    "expected_rect_raw": [
+      28,
+      1349,
+      89,
+      1413
+    ],
+    "search_roi_raw": [
+      0,
+      1260,
+      150,
+      1490
+    ],
+    "threshold": 0.62
+  },
+  "page_daily_tasks": {
+    "file": "templates/page_daily_tasks.png",
+    "source": "image(20261010-150428).png",
+    "crop_screenshot": [
+      145,
+      200,
+      300,
+      247
+    ],
+    "expected_rect_raw": [
+      236,
+      320,
+      487,
+      395
+    ],
+    "search_roi_raw": [
+      162,
+      288,
+      560,
+      424
+    ],
+    "threshold": 0.88
+  },
+  "page_daily_tasks_wechat": {
+    "file": "templates/page_daily_tasks_wechat.png",
+    "source": "runtime/debug/20261012_163815_275108_daily_page_not_confirmed.png",
+    "crop_screenshot": [
+      190,
+      250,
+      710,
+      325
+    ],
+    "expected_rect_raw": [
+      190,
+      250,
+      710,
+      325
+    ],
+    "search_roi_raw": [
+      165,
+      220,
+      726,
+      370
+    ],
+    "threshold": 0.9
+  },
+  "page_season_tasks": {
+    "file": "templates/page_season_tasks.png",
+    "source": "user screenshot pasted-image-10.png",
+    "crop_screenshot": [
+      135,
+      200,
+      315,
+      250
+    ],
+    "expected_rect_raw": [
+      219,
+      320,
+      512,
+      400
+    ],
+    "search_roi_raw": [
+      185,
+      285,
+      555,
+      435
+    ],
+    "threshold": 0.82
+  },
+  "daily_claim_green": {
+    "file": "templates/daily_claim_green.png",
+    "source": "image(20261010-150428).png",
+    "crop_screenshot": [
+      326,
+      429,
+      425,
+      470
+    ],
+    "expected_rect_raw": [
+      529,
+      686,
+      690,
+      751
+    ],
+    "search_roi_raw": [
+      479,
+      591,
+      711,
+      1287
+    ],
+    "threshold": 0.84
+  },
+  "daily_claim_oneclick": {
+    "file": "templates/daily_claim_oneclick.png",
+    "source": "runtime/debug/20261012_163849_365069_merchant_not_found.png",
+    "crop_screenshot": [
+      524,
+      574,
+      698,
+      650
+    ],
+    "expected_rect_raw": [
+      524,
+      574,
+      698,
+      650
+    ],
+    "search_roi_raw": [
+      470,
+      500,
+      715,
+      1500
+    ],
+    "threshold": 0.9
+  },
+  "daily_final_claim_ready": {
+    "file": "templates/daily_final_claim_ready.png",
+    "source": "image(20261010-150428).png",
+    "crop_screenshot": [
+      270,
+      282,
+      438,
+      360
+    ],
+    "expected_rect_raw": [
+      439,
+      451,
+      711,
+      575
+    ],
+    "search_roi_raw": [
+      406,
+      432,
+      723,
+      599
+    ],
+    "threshold": 0.9
+  },
+  "page_daily_total_reward": {
+    "file": "templates/page_daily_total_reward.png",
+    "source": "image(20261010-150520).png",
+    "crop_screenshot": [
+      105,
+      260,
+      340,
+      326
+    ],
+    "expected_rect_raw": [
+      171,
+      416,
+      552,
+      521
+    ],
+    "search_roi_raw": [
+      106,
+      360,
+      620,
+      575
+    ],
+    "threshold": 0.88
+  },
+  "main_beacon_entry": {
+    "file": "templates/main_beacon_entry.png",
+    "source": "image(20261010-150804).png",
+    "crop_screenshot": [
+      8,
+      762,
+      68,
+      818
+    ],
+    "expected_rect_raw": [
+      13,
+      1218,
+      110,
+      1307
+    ],
+    "search_roi_raw": [
+      0,
+      1167,
+      154,
+      1351
+    ],
+    "threshold": 0.74
+  },
+  "main_beacon_entry_wechat": {
+    "file": "templates/main_beacon_entry_wechat.png",
+    "source": "runtime/debug/20261012_164655_768410_beacon_entry_not_found.png",
+    "crop_screenshot": [
+      5,
+      1220,
+      90,
+      1320
+    ],
+    "expected_rect_raw": [
+      5,
+      1220,
+      90,
+      1320
+    ],
+    "search_roi_raw": [
+      0,
+      1160,
+      150,
+      1360
+    ],
+    "threshold": 0.82
+  },
+  "page_beacon": {
+    "file": "templates/page_beacon.png",
+    "source": "image(20261010-151026).png",
+    "crop_screenshot": [
+      145,
+      112,
+      300,
+      158
+    ],
+    "expected_rect_raw": [
+      236,
+      179,
+      487,
+      253
+    ],
+    "search_roi_raw": [
+      171,
+      152,
+      560,
+      280
+    ],
+    "threshold": 0.88
+  },
+  "beacon_assist_blue": {
+    "file": "templates/beacon_assist_blue.png",
+    "source": "image(20261010-151150).png",
+    "crop_screenshot": [
+      115,
+      936,
+      238,
+      979
+    ],
+    "expected_rect_raw": [
+      187,
+      1496,
+      387,
+      1565
+    ],
+    "search_roi_raw": [
+      154,
+      1463,
+      406,
+      1586
+    ],
+    "threshold": 0.86
+  },
+  "beacon_assist_grey": {
+    "file": "templates/beacon_assist_grey.png",
+    "source": "image(20261010-151026).png",
+    "crop_screenshot": [
+      115,
+      936,
+      238,
+      979
+    ],
+    "expected_rect_raw": [
+      187,
+      1496,
+      387,
+      1565
+    ],
+    "search_roi_raw": [
+      154,
+      1463,
+      406,
+      1586
+    ],
+    "threshold": 0.86
+  },
+  "beacon_claim_green": {
+    "file": "templates/beacon_claim_green.png",
+    "source": "image(20261010-151026).png",
+    "crop_screenshot": [
+      245,
+      936,
+      369,
+      979
+    ],
+    "expected_rect_raw": [
+      398,
+      1496,
+      599,
+      1565
+    ],
+    "search_roi_raw": [
+      365,
+      1463,
+      625,
+      1586
+    ],
+    "threshold": 0.86
+  },
+  "beacon_claim_grey": {
+    "file": "templates/beacon_claim_grey.png",
+    "source": "image(20261010-151150).png",
+    "crop_screenshot": [
+      245,
+      936,
+      369,
+      979
+    ],
+    "expected_rect_raw": [
+      398,
+      1496,
+      599,
+      1565
+    ],
+    "search_roi_raw": [
+      365,
+      1463,
+      625,
+      1586
+    ],
+    "threshold": 0.86
+  },
+  "page_beacon_reward": {
+    "file": "templates/page_beacon_reward.png",
+    "source": "image(20261010-151121).png",
+    "crop_screenshot": [
+      105,
+      258,
+      340,
+      328
+    ],
+    "expected_rect_raw": [
+      171,
+      412,
+      552,
+      524
+    ],
+    "search_roi_raw": [
+      106,
+      360,
+      620,
+      583
+    ],
+    "threshold": 0.88
+  },
+  "beacon_event_resource_yellow": {
+    "file": "templates/beacon_event_resource_yellow.png",
+    "source": "image(20261010-151742).png",
+    "crop_screenshot": [
+      104,
+      515,
+      155,
+      576
+    ],
+    "expected_rect_raw": [
+      169,
+      823,
+      252,
+      921
+    ],
+    "search_roi_raw": [
+      130,
+      559,
+      633,
+      1039
+    ],
+    "threshold": 0.72
+  },
+  "beacon_event_resource_purple": {
+    "file": "templates/beacon_event_resource_purple.png",
+    "source": "image(20261010-151742).png",
+    "crop_screenshot": [
+      192,
+      532,
+      245,
+      600
+    ],
+    "expected_rect_raw": [
+      312,
+      850,
+      398,
+      959
+    ],
+    "search_roi_raw": [
+      130,
+      559,
+      633,
+      1039
+    ],
+    "threshold": 0.72
+  },
+  "beacon_event_rally_flag": {
+    "file": "templates/beacon_event_rally_flag.png",
+    "source": "image(20261010-151742).png",
+    "crop_screenshot": [
+      280,
+      430,
+      333,
+      500
+    ],
+    "expected_rect_raw": [
+      455,
+      687,
+      541,
+      799
+    ],
+    "search_roi_raw": [
+      130,
+      559,
+      633,
+      1039
+    ],
+    "threshold": 0.8
+  },
+  "beacon_go_button": {
+    "file": "templates/beacon_go_button.png",
+    "source": "image(20261010-151903).png",
+    "crop_screenshot": [
+      190,
+      535,
+      245,
+      607
+    ],
+    "expected_rect_raw": [
+      309,
+      855,
+      398,
+      970
+    ],
+    "search_roi_raw": [
+      40,
+      330,
+      710,
+      1200
+    ],
+    "threshold": 0.86
+  },
+  "world_resource_popup": {
+    "file": "templates/world_resource_popup.png",
+    "source": "image(20261010-152008).png",
+    "crop_screenshot": [
+      130,
+      178,
+      310,
+      235
+    ],
+    "expected_rect_raw": [
+      211,
+      285,
+      503,
+      376
+    ],
+    "search_roi_raw": [
+      130,
+      232,
+      593,
+      416
+    ],
+    "threshold": 0.88
+  },
+  "resource_collect_button": {
+    "file": "templates/resource_collect_button.png",
+    "source": "image(20261010-152008).png",
+    "crop_screenshot": [
+      150,
+      382,
+      298,
+      427
+    ],
+    "expected_rect_raw": [
+      244,
+      611,
+      484,
+      683
+    ],
+    "search_roi_raw": [
+      195,
+      559,
+      528,
+      711
+    ],
+    "threshold": 0.88
+  },
+  "page_resource_march": {
+    "file": "templates/page_resource_march.png",
+    "source": "image(20261010-152036).png",
+    "crop_screenshot": [
+      145,
+      135,
+      305,
+      180
+    ],
+    "expected_rect_raw": [
+      236,
+      216,
+      495,
+      288
+    ],
+    "search_roi_raw": [
+      162,
+      184,
+      560,
+      312
+    ],
+    "threshold": 0.88
+  },
+  "resource_depart_button": {
+    "file": "templates/resource_depart_button.png",
+    "source": "image(20261010-152036).png",
+    "crop_screenshot": [
+      145,
+      938,
+      304,
+      993
+    ],
+    "expected_rect_raw": [
+      236,
+      1499,
+      494,
+      1587
+    ],
+    "search_roi_raw": [
+      195,
+      1463,
+      536,
+      1600
+    ],
+    "threshold": 0.82
+  },
+  "world_rally_popup": {
+    "file": "templates/world_rally_popup.png",
+    "source": "image(20261010-152542).png",
+    "crop_screenshot": [
+      130,
+      175,
+      305,
+      232
+    ],
+    "expected_rect_raw": [
+      211,
+      280,
+      495,
+      371
+    ],
+    "search_roi_raw": [
+      130,
+      232,
+      593,
+      400
+    ],
+    "threshold": 0.88
+  },
+  "rally_attack_button": {
+    "file": "templates/rally_attack_button.png",
+    "source": "runtime\\debug\\20261013_132410_021986_beacon_camp_attack_missing.png",
+    "crop_screenshot": [
+      244,
+      552,
+      488,
+      624
+    ],
+    "expected_rect_raw": [
+      244,
+      552,
+      488,
+      624
+    ],
+    "search_roi_raw": [
+      210,
+      520,
+      520,
+      670
+    ],
+    "threshold": 0.86
+  },
+  "page_rally_time_modal": {
+    "file": "templates/page_rally_time_modal.png",
+    "source": "image(20261010-152625).png",
+    "crop_screenshot": [
+      145,
+      390,
+      305,
+      433
+    ],
+    "expected_rect_raw": [
+      236,
+      623,
+      495,
+      692
+    ],
+    "search_roi_raw": [
+      162,
+      591,
+      560,
+      719
+    ],
+    "threshold": 0.88
+  },
+  "rally_3min_selected": {
+    "file": "templates/rally_3min_selected.png",
+    "source": "image(20261010-152625).png",
+    "crop_screenshot": [
+      47,
+      505,
+      145,
+      551
+    ],
+    "expected_rect_raw": [
+      76,
+      807,
+      236,
+      881
+    ],
+    "search_roi_raw": [
+      49,
+      775,
+      268,
+      903
+    ],
+    "threshold": 0.88
+  },
+  "rally_start_button": {
+    "file": "templates/rally_start_button.png",
+    "source": "image(20261010-152625).png",
+    "crop_screenshot": [
+      122,
+      608,
+      326,
+      662
+    ],
+    "expected_rect_raw": [
+      198,
+      972,
+      529,
+      1058
+    ],
+    "search_roi_raw": [
+      162,
+      935,
+      560,
+      1087
+    ],
+    "threshold": 0.88
+  },
+  "rally_depart_10": {
+    "file": "templates/rally_depart_10.png",
+    "source": "image(20261010-152713).png",
+    "crop_screenshot": [
+      145,
+      938,
+      304,
+      993
+    ],
+    "expected_rect_raw": [
+      236,
+      1499,
+      494,
+      1587
+    ],
+    "search_roi_raw": [
+      195,
+      1463,
+      536,
+      1600
+    ],
+    "threshold": 0.92
+  },
+  "rally_slots_empty": {
+    "file": "templates/rally_slots_empty.png",
+    "source": "image(20261010-153054).png",
+    "crop_screenshot": [
+      50,
+      195,
+      395,
+      360
+    ],
+    "expected_rect_raw": [
+      81,
+      312,
+      642,
+      575
+    ],
+    "search_roi_raw": [
+      41,
+      288,
+      682,
+      607
+    ],
+    "threshold": 0.88
+  },
+  "page_hero_select": {
+    "file": "templates/page_hero_select.png",
+    "source": "image(20261010-153135).png",
+    "crop_screenshot": [
+      105,
+      178,
+      338,
+      225
+    ],
+    "expected_rect_raw": [
+      171,
+      285,
+      549,
+      360
+    ],
+    "search_roi_raw": [
+      122,
+      256,
+      601,
+      384
+    ],
+    "threshold": 0.88
+  },
+  "hero_zhurong": {
+    "file": "templates/hero_zhurong.png",
+    "source": "image(20261010-153135).png",
+    "crop_screenshot": [
+      145,
+      650,
+      205,
+      744
+    ],
+    "expected_rect_raw": [
+      236,
+      1039,
+      333,
+      1189
+    ],
+    "search_roi_raw": [
+      32,
+      799,
+      682,
+      1311
+    ],
+    "threshold": 0.9
+  },
+  "hero_zhurong_selected": {
+    "file": "templates/hero_zhurong_selected.png",
+    "source": "image(20261010-153214).png",
+    "crop_screenshot": [
+      28,
+      245,
+      145,
+      445
+    ],
+    "expected_rect_raw": [
+      45,
+      392,
+      236,
+      711
+    ],
+    "search_roi_raw": [
+      24,
+      368,
+      260,
+      735
+    ],
+    "threshold": 0.88
+  },
+  "hero_deploy_button": {
+    "file": "templates/hero_deploy_button.png",
+    "source": "image(20261010-153214).png",
+    "crop_screenshot": [
+      225,
+      829,
+      358,
+      882
+    ],
+    "expected_rect_raw": [
+      365,
+      1325,
+      581,
+      1410
+    ],
+    "search_roi_raw": [
+      333,
+      1295,
+      617,
+      1439
+    ],
+    "threshold": 0.88
+  },
+  "rally_zhurong_solo": {
+    "file": "templates/rally_zhurong_solo.png",
+    "source": "image(20261010-153240).png",
+    "crop_screenshot": [
+      40,
+      190,
+      160,
+      362
+    ],
+    "expected_rect_raw": [
+      65,
+      304,
+      260,
+      579
+    ],
+    "search_roi_raw": [
+      32,
+      288,
+      292,
+      607
+    ],
+    "threshold": 0.88
+  },
+  "rally_depart_8": {
+    "file": "templates/rally_depart_8.png",
+    "source": "image(20261010-153240).png",
+    "crop_screenshot": [
+      145,
+      938,
+      304,
+      993
+    ],
+    "expected_rect_raw": [
+      236,
+      1499,
+      494,
+      1587
+    ],
+    "search_roi_raw": [
+      195,
+      1463,
+      536,
+      1600
+    ],
+    "threshold": 0.92
+  },
+  "beacon_final_refresh": {
+    "file": "templates/beacon_final_refresh.png",
+    "source": "image(20261010-154156).png",
+    "crop_screenshot": [
+      112,
+      500,
+      270,
+      556
+    ],
+    "expected_rect_raw": [
+      182,
+      799,
+      439,
+      889
+    ],
+    "search_roi_raw": [
+      138,
+      759,
+      585,
+      927
+    ],
+    "threshold": 0.68
+  },
+  "beacon_refresh_label": {
+    "file": "templates/beacon_refresh_label.png",
+    "source": "templates/beacon_final_refresh.png (fixed text only)",
+    "crop_screenshot": [
+      18,
+      41,
+      205,
+      72
+    ],
+    "expected_rect_raw": [
+      193,
+      800,
+      380,
+      831
+    ],
+    "search_roi_raw": [
+      175,
+      760,
+      500,
+      900
+    ],
+    "threshold": 0.8
+  },
+  "city_exit_button": {
+    "file": "templates/city_exit_button.png",
+    "source": "image(20261010-164419).png",
+    "crop_screenshot": [
+      356,
+      938,
+      446,
+      1000
+    ],
+    "expected_rect_raw": [
+      578,
+      1499,
+      724,
+      1598
+    ],
+    "search_roi_raw": [
+      544,
+      1455,
+      726,
+      1600
+    ],
+    "threshold": 0.86
+  },
+  "world_city_button": {
+    "file": "templates/world_city_button.png",
+    "source": "image(20261010-163915).png",
+    "crop_screenshot": [
+      354,
+      938,
+      446,
+      1000
+    ],
+    "expected_rect_raw": [
+      575,
+      1499,
+      724,
+      1598
+    ],
+    "search_roi_raw": [
+      544,
+      1455,
+      726,
+      1600
+    ],
+    "threshold": 0.84
+  },
+  "main_search_button": {
+    "file": "templates/main_search_button.png",
+    "source": "image(20261010-155647).png",
+    "crop_screenshot": [
+      12,
+      598,
+      55,
+      652
+    ],
+    "expected_rect_raw": [
+      19,
+      956,
+      89,
+      1042
+    ],
+    "search_roi_raw": [
+      0,
+      895,
+      146,
+      1119
+    ],
+    "threshold": 0.84
+  },
+  "main_search_glyph": {
+    "file": "templates/main_search_glyph.png",
+    "source": "templates/main_search_button.png (fixed magnifier glyph)",
+    "crop_screenshot": [
+      12,
+      21,
+      57,
+      68
+    ],
+    "expected_rect_raw": [
+      31,
+      965,
+      76,
+      1012
+    ],
+    "search_roi_raw": [
+      0,
+      895,
+      146,
+      1119
+    ],
+    "threshold": 0.8
+  },
+  "page_search_panel": {
+    "file": "templates/page_search_panel.png",
+    "source": "image(20261010-162000).png",
+    "crop_screenshot": [
+      137,
+      690,
+      309,
+      728
+    ],
+    "expected_rect_raw": [
+      223,
+      1103,
+      502,
+      1164
+    ],
+    "search_roi_raw": [
+      16,
+      1007,
+      707,
+      1359
+    ],
+    "threshold": 0.86
+  },
+  "search_full_checked": {
+    "file": "templates/search_full_checked.png",
+    "source": "image(20261010-162000).png",
+    "crop_screenshot": [
+      151,
+      757,
+      181,
+      784
+    ],
+    "expected_rect_raw": [
+      245,
+      1210,
+      294,
+      1253
+    ],
+    "search_roi_raw": [
+      195,
+      1175,
+      341,
+      1279
+    ],
+    "threshold": 0.86
+  },
+  "search_rogue_header": {
+    "file": "templates/search_rogue_header.png",
+    "source": "image(20261010-162835).png",
+    "crop_screenshot": [
+      51,
+      647,
+      399,
+      688
+    ],
+    "expected_rect_raw": [
+      83,
+      1034,
+      648,
+      1100
+    ],
+    "search_roi_raw": [
+      16,
+      991,
+      698,
+      1135
+    ],
+    "threshold": 0.83
+  },
+  "rogue_attack_button": {
+    "file": "templates/rogue_attack_button.png",
+    "source": "image(20261010-162909).png",
+    "crop_screenshot": [
+      157,
+      387,
+      300,
+      432
+    ],
+    "expected_rect_raw": [
+      255,
+      619,
+      487,
+      691
+    ],
+    "search_roi_raw": [
+      203,
+      575,
+      536,
+      727
+    ],
+    "threshold": 0.88
+  },
+  "generic_depart_button": {
+    "file": "templates/generic_depart_button.png",
+    "source": "image(20261010-162921).png",
+    "crop_screenshot": [
+      144,
+      936,
+      304,
+      994
+    ],
+    "expected_rect_raw": [
+      234,
+      1496,
+      494,
+      1589
+    ],
+    "search_roi_raw": [
+      195,
+      1463,
+      536,
+      1600
+    ],
+    "threshold": 0.84
+  },
+  "march_full_6of6": {
+    "file": "templates/march_full_6of6.png",
+    "source": "image(20261010-164733).png",
+    "crop_screenshot": [
+      91,
+      304,
+      163,
+      329
+    ],
+    "expected_rect_raw": [
+      148,
+      486,
+      265,
+      526
+    ],
+    "search_roi_raw": [
+      114,
+      456,
+      292,
+      551
+    ],
+    "threshold": 0.87
+  },
+  "page_title": {
+    "file": "templates/page_title.png",
+    "source": "image(20261010-163538).png",
+    "crop_screenshot": [
+      177,
+      117,
+      276,
+      155
+    ],
+    "expected_rect_raw": [
+      287,
+      187,
+      448,
+      248
+    ],
+    "search_roi_raw": [
+      195,
+      152,
+      536,
+      280
+    ],
+    "threshold": 0.88
+  },
+  "title_daily_claim": {
+    "file": "templates/title_daily_claim.png",
+    "source": "image(20261010-163538).png",
+    "crop_screenshot": [
+      307,
+      740,
+      426,
+      789
+    ],
+    "expected_rect_raw": [
+      499,
+      1183,
+      692,
+      1261
+    ],
+    "search_roi_raw": [
+      463,
+      1143,
+      711,
+      1295
+    ],
+    "threshold": 0.88
+  },
+  "title_login_chest_red": {
+    "file": "templates/title_login_chest_red.png",
+    "source": "image(20261010-163538).png",
+    "crop_screenshot": [
+      364,
+      238,
+      432,
+      304
+    ],
+    "expected_rect_raw": [
+      591,
+      380,
+      702,
+      486
+    ],
+    "search_roi_raw": [
+      552,
+      344,
+      718,
+      511
+    ],
+    "threshold": 0.82
+  },
+  "title_login_popup": {
+    "file": "templates/title_login_popup.png",
+    "source": "image(20261010-163734).png",
+    "crop_screenshot": [
+      148,
+      421,
+      300,
+      458
+    ],
+    "expected_rect_raw": [
+      240,
+      673,
+      487,
+      732
+    ],
+    "search_roi_raw": [
+      146,
+      623,
+      577,
+      767
+    ],
+    "threshold": 0.88
+  },
+  "alliance_war": {
+    "file": "templates/alliance_war.png",
+    "source": "image(20261010-163946).png",
+    "crop_screenshot": [
+      23,
+      438,
+      219,
+      495
+    ],
+    "expected_rect_raw": [
+      37,
+      700,
+      356,
+      791
+    ],
+    "search_roi_raw": [
+      16,
+      663,
+      382,
+      815
+    ],
+    "threshold": 0.86
+  },
+  "page_alliance_war": {
+    "file": "templates/page_alliance_war.png",
+    "source": "image(20261010-164016).png",
+    "crop_screenshot": [
+      162,
+      116,
+      288,
+      155
+    ],
+    "expected_rect_raw": [
+      263,
+      185,
+      468,
+      248
+    ],
+    "search_roi_raw": [
+      171,
+      152,
+      560,
+      280
+    ],
+    "threshold": 0.88
+  },
+  "alliance_auto_join": {
+    "file": "templates/alliance_auto_join.png",
+    "source": "image(20261010-164016).png",
+    "crop_screenshot": [
+      315,
+      816,
+      429,
+      858
+    ],
+    "expected_rect_raw": [
+      512,
+      1304,
+      697,
+      1371
+    ],
+    "search_roi_raw": [
+      479,
+      1271,
+      715,
+      1399
+    ],
+    "threshold": 0.88
+  },
+  "page_auto_join": {
+    "file": "templates/page_auto_join.png",
+    "source": "image(20261010-164057).png",
+    "crop_screenshot": [
+      150,
+      229,
+      300,
+      266
+    ],
+    "expected_rect_raw": [
+      244,
+      366,
+      487,
+      425
+    ],
+    "search_roi_raw": [
+      154,
+      336,
+      568,
+      456
+    ],
+    "threshold": 0.88
+  },
+  "auto_join_start": {
+    "file": "templates/auto_join_start.png",
+    "source": "image(20261010-164057).png",
+    "crop_screenshot": [
+      201,
+      764,
+      403,
+      817
+    ],
+    "expected_rect_raw": [
+      326,
+      1221,
+      655,
+      1306
+    ],
+    "search_roi_raw": [
+      292,
+      1183,
+      690,
+      1335
+    ],
+    "threshold": 0.88
+  },
+  "page_profile": {
+    "file": "templates/page_profile.png",
+    "source": "image(20261010-170524).png",
+    "crop_screenshot": [
+      374,
+      190,
+      433,
+      456
+    ],
+    "expected_rect_raw": [
+      607,
+      304,
+      703,
+      729
+    ],
+    "search_roi_raw": [
+      568,
+      256,
+      726,
+      799
+    ],
+    "threshold": 0.8
+  },
+  "profile_stamina_plus": {
+    "file": "templates/profile_stamina_plus.png",
+    "source": "image(20261010-170524).png",
+    "crop_screenshot": [
+      99,
+      668,
+      122,
+      698
+    ],
+    "expected_rect_raw": [
+      161,
+      1068,
+      198,
+      1116
+    ],
+    "search_roi_raw": [
+      133,
+      1031,
+      219,
+      1143
+    ],
+    "threshold": 0.84
+  },
+  "page_stamina_more": {
+    "file": "templates/page_stamina_more.png",
+    "source": "image(20261010-170603).png",
+    "crop_screenshot": [
+      164,
+      274,
+      286,
+      311
+    ],
+    "expected_rect_raw": [
+      266,
+      438,
+      465,
+      497
+    ],
+    "search_roi_raw": [
+      154,
+      408,
+      568,
+      527
+    ],
+    "threshold": 0.88
+  },
+  "stamina_claim_green": {
+    "file": "templates/stamina_claim_green.png",
+    "source": "image(20261011-153443).png",
+    "crop_screenshot": [
+      309,
+      517,
+      421,
+      570
+    ],
+    "expected_rect_raw": [
+      502,
+      826,
+      684,
+      912
+    ],
+    "search_roi_raw": [
+      460,
+      760,
+      711,
+      1180
+    ],
+    "threshold": 0.78
+  },
+  "stamina_use_green": {
+    "file": "templates/stamina_use_green.png",
+    "source": "image(20261010-170752).png",
+    "crop_screenshot": [
+      309,
+      428,
+      421,
+      477
+    ],
+    "expected_rect_raw": [
+      502,
+      684,
+      684,
+      762
+    ],
+    "search_roi_raw": [
+      471,
+      647,
+      711,
+      783
+    ],
+    "threshold": 0.88
+  },
+  "queue_panel_training": {
+    "file": "templates/queue_panel_training.png",
+    "source": "image(20261010-165330).png",
+    "crop_screenshot": [
+      8,
+      328,
+      112,
+      355
+    ],
+    "expected_rect_raw": [
+      13,
+      524,
+      182,
+      567
+    ],
+    "search_roi_raw": [
+      0,
+      480,
+      374,
+      1103
+    ],
+    "threshold": 0.83
+  },
+  "queue_train_claim_green": {
+    "file": "templates/queue_train_claim_green.png",
+    "source": "image(20261010-165330).png",
+    "crop_screenshot": [
+      175,
+      372,
+      209,
+      409
+    ],
+    "expected_rect_raw": [
+      284,
+      595,
+      339,
+      654
+    ],
+    "search_roi_raw": [
+      252,
+      543,
+      357,
+      831
+    ],
+    "threshold": 0.86
+  },
+  "queue_book_idle": {
+    "file": "templates/queue_book_idle.png",
+    "source": "image(20261010-165603).png",
+    "crop_screenshot": [
+      10,
+      600,
+      169,
+      648
+    ],
+    "expected_rect_raw": [
+      16,
+      959,
+      274,
+      1036
+    ],
+    "search_roi_raw": [
+      0,
+      751,
+      365,
+      1215
+    ],
+    "threshold": 0.83
+  },
+  "building_study_button": {
+    "file": "templates/building_study_button.png",
+    "source": "image(20261010-165758).png",
+    "crop_screenshot": [
+      276,
+      562,
+      344,
+      660
+    ],
+    "expected_rect_raw": [
+      448,
+      898,
+      559,
+      1055
+    ],
+    "search_roi_raw": [
+      390,
+      831,
+      617,
+      1119
+    ],
+    "threshold": 0.82
+  },
+  "page_study_home": {
+    "file": "templates/page_study_home.png",
+    "source": "image(20261010-165820).png",
+    "crop_screenshot": [
+      166,
+      116,
+      280,
+      154
+    ],
+    "expected_rect_raw": [
+      270,
+      185,
+      455,
+      246
+    ],
+    "search_roi_raw": [
+      162,
+      152,
+      560,
+      280
+    ],
+    "threshold": 0.88
+  },
+  "page_study_tree": {
+    "file": "templates/page_study_tree.png",
+    "source": "image(20261010-170005).png",
+    "crop_screenshot": [
+      135,
+      938,
+      311,
+      991
+    ],
+    "expected_rect_raw": [
+      219,
+      1499,
+      505,
+      1584
+    ],
+    "search_roi_raw": [
+      179,
+      1471,
+      544,
+      1600
+    ],
+    "threshold": 0.84
+  },
+  "study_popup": {
+    "file": "templates/study_popup.png",
+    "source": "image(20261010-170109).png",
+    "crop_screenshot": [
+      140,
+      291,
+      306,
+      326
+    ],
+    "expected_rect_raw": [
+      227,
+      465,
+      497,
+      521
+    ],
+    "search_roi_raw": [
+      130,
+      432,
+      585,
+      551
+    ],
+    "threshold": 0.87
+  },
+  "study_research_blue": {
+    "file": "templates/study_research_blue.png",
+    "source": "image(20261010-170109).png",
+    "crop_screenshot": [
+      227,
+      708,
+      427,
+      760
+    ],
+    "expected_rect_raw": [
+      369,
+      1132,
+      694,
+      1215
+    ],
+    "search_roi_raw": [
+      333,
+      1095,
+      715,
+      1247
+    ],
+    "threshold": 0.88
+  },
+  "merchant_bubble": {
+    "file": "templates/merchant_bubble.png",
+    "source": "image(20261010-171330).png",
+    "crop_screenshot": [
+      221,
+      498,
+      280,
+      565
+    ],
+    "expected_rect_raw": [
+      359,
+      796,
+      455,
+      903
+    ],
+    "search_roi_raw": [
+      0,
+      480,
+      726,
+      1279
+    ],
+    "threshold": 0.78
+  },
+  "page_merchant": {
+    "file": "templates/page_merchant.png",
+    "source": "image(20261010-171405).png",
+    "crop_screenshot": [
+      10,
+      160,
+      190,
+      210
+    ],
+    "expected_rect_raw": [
+      16,
+      256,
+      309,
+      336
+    ],
+    "search_roi_raw": [
+      0,
+      192,
+      487,
+      376
+    ],
+    "threshold": 0.88
+  },
+  "merchant_free_refresh": {
+    "file": "templates/merchant_free_refresh.png",
+    "source": "image(20261010-171405).png",
+    "crop_screenshot": [
+      349,
+      190,
+      430,
+      227
+    ],
+    "expected_rect_raw": [
+      567,
+      304,
+      698,
+      363
+    ],
+    "search_roi_raw": [
+      536,
+      280,
+      715,
+      392
+    ],
+    "threshold": 0.76
+  },
+  "merchant_fill_all": {
+    "file": "templates/merchant_fill_all.png",
+    "source": "runtime/debug/20261012_164642_718804_merchant_card_6_not_confirmed_sold.png",
+    "crop_screenshot": [
+      172,
+      1391,
+      555,
+      1484
+    ],
+    "expected_rect_raw": [
+      172,
+      1391,
+      555,
+      1484
+    ],
+    "search_roi_raw": [
+      150,
+      1350,
+      580,
+      1530
+    ],
+    "threshold": 0.9
+  },
+  "merchant_price_meat": {
+    "file": "templates/merchant_price_meat.png",
+    "source": "image(20261010-171738).png",
+    "crop_screenshot": [
+      20,
+      437,
+      48,
+      459
+    ],
+    "expected_rect_raw": [
+      32,
+      699,
+      78,
+      734
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.7
+  },
+  "merchant_price_wood": {
+    "file": "templates/merchant_price_wood.png",
+    "source": "image(20261010-171738).png",
+    "crop_screenshot": [
+      129,
+      437,
+      158,
+      459
+    ],
+    "expected_rect_raw": [
+      210,
+      699,
+      257,
+      734
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.7
+  },
+  "merchant_price_coal": {
+    "file": "templates/merchant_price_coal.png",
+    "source": "image(20261010-171738).png",
+    "crop_screenshot": [
+      237,
+      437,
+      266,
+      459
+    ],
+    "expected_rect_raw": [
+      385,
+      699,
+      432,
+      734
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.7
+  },
+  "merchant_price_iron": {
+    "file": "templates/merchant_price_iron.png",
+    "source": "image(20261010-171510).png",
+    "crop_screenshot": [
+      129,
+      599,
+      159,
+      623
+    ],
+    "expected_rect_raw": [
+      210,
+      957,
+      258,
+      996
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.7
+  },
+  "merchant_icon_inner": {
+    "file": "templates/merchant_icon_inner.png",
+    "source": "image(20261010-171330).png",
+    "crop_screenshot": [
+      232,
+      510,
+      270,
+      552
+    ],
+    "expected_rect_raw": [
+      377,
+      815,
+      439,
+      882
+    ],
+    "search_roi_raw": [
+      0,
+      300,
+      726,
+      1360
+    ],
+    "threshold": 0.72
+  },
+  "merchant_price_gold": {
+    "file": "templates/merchant_price_gold.png",
+    "source": "image(20261010-171738).png",
+    "crop_screenshot": [
+      345,
+      437,
+      373,
+      459
+    ],
+    "expected_rect_raw": [
+      560,
+      699,
+      606,
+      734
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.88
+  },
+  "merchant_soldout": {
+    "file": "templates/merchant_soldout.png",
+    "source": "image(20261010-171611).png",
+    "crop_screenshot": [
+      36,
+      437,
+      100,
+      459
+    ],
+    "expected_rect_raw": [
+      58,
+      699,
+      162,
+      734
+    ],
+    "search_roi_raw": [
+      0,
+      0,
+      726,
+      1600
+    ],
+    "threshold": 0.82
+  },
+  "queue_expand_tab": {
+    "file": "templates/queue_expand_tab.png",
+    "source": "image(20261010-164419).png",
+    "crop_screenshot": [
+      0,
+      470,
+      28,
+      525
+    ],
+    "expected_rect_raw": [
+      0,
+      751,
+      45,
+      839
+    ],
+    "search_roi_raw": [
+      0,
+      650,
+      110,
+      1050
+    ],
+    "threshold": 0.78
+  },
+  "queue_collapse_tab": {
+    "file": "templates/queue_collapse_tab.png",
+    "source": "20261011_022358_733753_queue_expand_tab_not_found.png",
+    "crop_screenshot": [
+      365,
+      735,
+      425,
+      835
+    ],
+    "expected_rect_raw": [
+      365,
+      735,
+      425,
+      835
+    ],
+    "search_roi_raw": [
+      320,
+      600,
+      470,
+      1050
+    ],
+    "threshold": 0.8
+  },
+  "queue_train_claim_green_v2": {
+    "file": "templates/queue_train_claim_green_v2.png",
+    "source": "20261011_022358_733753_queue_expand_tab_not_found.png",
+    "crop_screenshot": [
+      280,
+      680,
+      340,
+      750
+    ],
+    "expected_rect_raw": [
+      280,
+      680,
+      340,
+      750
+    ],
+    "search_roi_raw": [
+      200,
+      520,
+      360,
+      1100
+    ],
+    "threshold": 0.84
+  },
+  "study_building_anchor_v2": {
+    "file": "templates/study_building_anchor_v2.png",
+    "source": "20261011_024523_647577_unknown_start_page.png",
+    "crop_screenshot": [
+      300,
+      645,
+      430,
+      745
+    ],
+    "expected_rect_raw": [
+      300,
+      645,
+      430,
+      745
+    ],
+    "search_roi_raw": [
+      220,
+      540,
+      520,
+      860
+    ],
+    "threshold": 0.82
+  },
+  "gift_tab_left_active": {
+    "file": "templates/gift_tab_left_active.png",
+    "source": "alliance_gift_box_tab.png",
+    "expected_rect_raw": [
+      45,
+      470,
+      315,
+      544
+    ],
+    "search_roi_raw": [
+      0,
+      420,
+      360,
+      590
+    ],
+    "threshold": 0.76
+  },
+  "gift_tab_right_active": {
+    "file": "templates/gift_tab_right_active.png",
+    "source": "alliance_gift_send_tab.png",
+    "expected_rect_raw": [
+      374,
+      470,
+      644,
+      544
+    ],
+    "search_roi_raw": [
+      366,
+      420,
+      726,
+      590
+    ],
+    "threshold": 0.76
+  },
+  "page_battle_overview": {
+    "file": "templates/page_battle_overview.png",
+    "source": "user screenshot pasted-image-6.png",
+    "crop_screenshot": [
+      178,
+      124,
+      270,
+      153
+    ],
+    "expected_rect_raw": [
+      289,
+      167,
+      439,
+      214
+    ],
+    "search_roi_raw": [
+      250,
+      135,
+      476,
+      250
+    ],
+    "threshold": 0.84
+  },
+  "page_auto_join_wechat": {
+    "file": "templates/page_auto_join_wechat.png",
+    "source": "20261012_160115_160177_auto_join_modal_missing.png",
+    "crop_screenshot": [
+      190,
+      296,
+      510,
+      358
+    ],
+    "expected_rect_raw": [
+      190,
+      296,
+      510,
+      358
+    ],
+    "search_roi_raw": [
+      150,
+      265,
+      575,
+      400
+    ],
+    "threshold": 0.84
+  },
+  "auto_join_start_wechat": {
+    "file": "templates/auto_join_start_wechat.png",
+    "source": "20261012_160115_160177_auto_join_modal_missing.png",
+    "crop_screenshot": [
+      326,
+      1172,
+      657,
+      1264
+    ],
+    "expected_rect_raw": [
+      326,
+      1172,
+      657,
+      1264
+    ],
+    "search_roi_raw": [
+      280,
+      1110,
+      710,
+      1320
+    ],
+    "threshold": 0.84
+  },
+  "page_crusade_wechat": {
+    "file": "templates/page_crusade_wechat.png",
+    "source": "20261012_160131_908784_crusade_page_not_confirmed.png",
+    "crop_screenshot": [
+      170,
+      166,
+      570,
+      310
+    ],
+    "expected_rect_raw": [
+      170,
+      166,
+      570,
+      310
+    ],
+    "search_roi_raw": [
+      90,
+      120,
+      640,
+      370
+    ],
+    "threshold": 0.82
+  },
+  "page_profile_wechat": {
+    "file": "templates/page_profile_wechat.png",
+    "source": "20261012_161509_623772_profile_page_missing.png",
+    "crop_screenshot": [
+      620,
+      190,
+      712,
+      662
+    ],
+    "expected_rect_raw": [
+      620,
+      190,
+      712,
+      662
+    ],
+    "search_roi_raw": [
+      590,
+      165,
+      726,
+      720
+    ],
+    "threshold": 0.82
+  },
+  "resident_event_entry": {
+    "file": "templates/resident_event_entry.png",
+    "source": "user screenshot 2026-10-12 pasted-image-8875.png",
+    "crop_screenshot": [
+      10,
+      595,
+      61,
+      651
+    ],
+    "expected_rect_raw": [
+      16,
+      951,
+      99,
+      1040
+    ],
+    "search_roi_raw": [
+      0,
+      880,
+      145,
+      1120
+    ],
+    "threshold": 0.78
+  },
+  "page_resident_event": {
+    "file": "templates/page_resident_event.png",
+    "source": "user screenshot 2026-10-12 pasted-image-11.png",
+    "crop_screenshot": [
+      0,
+      816,
+      132,
+      873
+    ],
+    "expected_rect_raw": [
+      0,
+      1304,
+      214,
+      1395
+    ],
+    "search_roi_raw": [
+      0,
+      1250,
+      340,
+      1460
+    ],
+    "threshold": 0.82
+  },
+  "main_shop_entry": {
+    "file": "templates/main_shop_entry.png",
+    "source": "user screenshot 2026-10-12 pasted-image-8.png",
+    "crop_screenshot": [
+      390,
+      130,
+      435,
+      181
+    ],
+    "expected_rect_raw": [
+      633,
+      208,
+      707,
+      289
+    ],
+    "search_roi_raw": [
+      600,
+      160,
+      726,
+      330
+    ],
+    "threshold": 0.78
+  },
+  "merchant_name": {
+    "file": "templates/merchant_name.png",
+    "source": "Video_2026-10-12_173345.mp4 frame 179; game crop (0,21,444,998)",
+    "crop_screenshot": [
+      174,
+      545,
+      209,
+      566
+    ],
+    "expected_rect_raw": [
+      285,
+      858,
+      342,
+      893
+    ],
+    "search_roi_raw": [
+      60,
+      300,
+      660,
+      1340
+    ],
+    "threshold": 0.84
+  },
+  "merchant_shop_tab": {
+    "file": "templates/merchant_shop_tab.png",
+    "source": "user screenshot 2026-10-12 pasted-image-5.png",
+    "crop_screenshot": [
+      10,
+      856,
+      111,
+      909
+    ],
+    "expected_rect_raw": [
+      16,
+      1368,
+      180,
+      1453
+    ],
+    "search_roi_raw": [
+      0,
+      1290,
+      240,
+      1510
+    ],
+    "threshold": 0.82
+  },
+  "top_gift_inner": {
+    "file": "templates/top_gift_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      332,
+      153,
+      394,
+      188
+    ],
+    "expected_rect_raw": [
+      332,
+      153,
+      394,
+      188
+    ],
+    "search_roi_raw": [
+      280,
+      120,
+      445,
+      330
+    ],
+    "threshold": 0.82
+  },
+  "resident_continue": {
+    "file": "templates/resident_continue.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      532,
+      1525,
+      695,
+      1555
+    ],
+    "expected_rect_raw": [
+      532,
+      1525,
+      695,
+      1555
+    ],
+    "search_roi_raw": [
+      360,
+      1430,
+      726,
+      1600
+    ],
+    "threshold": 0.84
+  },
+  "beacon_check_badge": {
+    "file": "templates/beacon_check_badge.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      220,
+      869,
+      256,
+      906
+    ],
+    "expected_rect_raw": [
+      220,
+      869,
+      256,
+      906
+    ],
+    "search_roi_raw": [
+      55,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.84
+  },
+  "beacon_resource_yellow_inner": {
+    "file": "templates/beacon_resource_yellow_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      401,
+      771,
+      442,
+      817
+    ],
+    "expected_rect_raw": [
+      401,
+      771,
+      442,
+      817
+    ],
+    "search_roi_raw": [
+      55,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.83
+  },
+  "beacon_resource_purple_inner": {
+    "file": "templates/beacon_resource_purple_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      158,
+      798,
+      198,
+      842
+    ],
+    "expected_rect_raw": [
+      158,
+      798,
+      198,
+      842
+    ],
+    "search_roi_raw": [
+      55,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.83
+  },
+  "beacon_resource_blue_inner": {
+    "file": "templates/beacon_resource_blue_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      296,
+      801,
+      336,
+      843
+    ],
+    "expected_rect_raw": [
+      296,
+      801,
+      336,
+      843
+    ],
+    "search_roi_raw": [
+      55,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.83
+  },
+  "beacon_swords_inner": {
+    "file": "templates/beacon_swords_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      484,
+      703,
+      521,
+      752
+    ],
+    "expected_rect_raw": [
+      484,
+      703,
+      521,
+      752
+    ],
+    "search_roi_raw": [
+      0,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.83
+  },
+  "beacon_skull_inner": {
+    "file": "templates/beacon_skull_inner.png",
+    "source": "user screenshot 2026-10-12; normalized game content",
+    "crop_screenshot": [
+      193,
+      901,
+      232,
+      940
+    ],
+    "expected_rect_raw": [
+      193,
+      901,
+      232,
+      940
+    ],
+    "search_roi_raw": [
+      0,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.83
+  },
+  "training_claim_hand": {
+    "file": "templates/training_claim_hand.png",
+    "source": "user pasted-image-42.png game crop (0,21,447,1000)",
+    "crop_screenshot": [
+      220,
+      414,
+      282,
+      491
+    ],
+    "expected_rect_raw": [
+      357,
+      642,
+      458,
+      768
+    ],
+    "search_roi_raw": [
+      110,
+      350,
+      620,
+      1180
+    ],
+    "threshold": 0.82
+  },
+  "training_claim_cavalry": {
+    "file": "templates/training_claim_cavalry.png",
+    "source": "user pasted-image-42.png game crop (0,21,447,1000)",
+    "crop_screenshot": [
+      202,
+      397,
+      242,
+      420
+    ],
+    "expected_rect_raw": [
+      328,
+      615,
+      393,
+      652
+    ],
+    "search_roi_raw": [
+      110,
+      350,
+      620,
+      1180
+    ],
+    "threshold": 0.82
+  },
+  "queue_training_header": {
+    "file": "templates/queue_training_header.png",
+    "source": "user pasted-image-6448.png normalized game",
+    "crop_screenshot": [
+      7,
+      394,
+      71,
+      411
+    ],
+    "expected_rect_raw": [
+      11,
+      610,
+      115,
+      637
+    ],
+    "search_roi_raw": [
+      0,
+      330,
+      180,
+      1200
+    ],
+    "threshold": 0.83
+  },
+  "queue_research_header": {
+    "file": "templates/queue_research_header.png",
+    "source": "user pasted-image-6448.png normalized game",
+    "crop_screenshot": [
+      7,
+      553,
+      72,
+      570
+    ],
+    "expected_rect_raw": [
+      11,
+      869,
+      117,
+      897
+    ],
+    "search_roi_raw": [
+      0,
+      330,
+      180,
+      1200
+    ],
+    "threshold": 0.83
+  },
+  "mount_entry_bubble": {
+    "file": "templates/mount_entry_bubble.png",
+    "source": "user_mount_map.png normalized game",
+    "crop_screenshot": [
+      193,
+      535,
+      232,
+      573
+    ],
+    "expected_rect_raw": [
+      313,
+      840,
+      377,
+      902
+    ],
+    "search_roi_raw": [
+      35,
+      290,
+      680,
+      1300
+    ],
+    "threshold": 0.82
+  },
+  "mount_name": {
+    "file": "templates/mount_name.png",
+    "source": "user screenshot 2026-10-13 codex-clipboard-sIu6ks.png, 养马场 label",
+    "crop_screenshot": [
+      72,
+      678,
+      128,
+      714
+    ],
+    "expected_rect_raw": [
+      117,
+      1073,
+      208,
+      1132
+    ],
+    "search_roi_raw": [
+      20,
+      350,
+      690,
+      1500
+    ],
+    "threshold": 0.82
+  },
+  "page_mount_visit": {
+    "file": "templates/page_mount_visit.png",
+    "source": "user_mount_ready.png normalized game",
+    "crop_screenshot": [
+      182,
+      120,
+      265,
+      143
+    ],
+    "expected_rect_raw": [
+      296,
+      162,
+      430,
+      199
+    ],
+    "search_roi_raw": [
+      220,
+      120,
+      500,
+      270
+    ],
+    "threshold": 0.86
+  },
+  "mount_invite_button": {
+    "file": "templates/mount_invite_button.png",
+    "source": "user_mount_ready.png normalized game",
+    "crop_screenshot": [
+      154,
+      846,
+      295,
+      891
+    ],
+    "expected_rect_raw": [
+      250,
+      1348,
+      479,
+      1422
+    ],
+    "search_roi_raw": [
+      175,
+      1300,
+      550,
+      1450
+    ],
+    "threshold": 0.85
+  },
+  "mount_waiting": {
+    "file": "templates/mount_waiting.png",
+    "source": "user_mount_wait.png normalized game",
+    "crop_screenshot": [
+      200,
+      836,
+      308,
+      857
+    ],
+    "expected_rect_raw": [
+      325,
+      1332,
+      500,
+      1366
+    ],
+    "search_roi_raw": [
+      260,
+      1280,
+      550,
+      1420
+    ],
+    "threshold": 0.85
+  },
+  "mount_invite_one": {
+    "file": "templates/mount_invite_one.png",
+    "source": "user_mount_ready.png normalized game",
+    "crop_screenshot": [
+      294,
+      909,
+      302,
+      924
+    ],
+    "expected_rect_raw": [
+      478,
+      1451,
+      490,
+      1476
+    ],
+    "search_roi_raw": [
+      465,
+      1430,
+      503,
+      1485
+    ],
+    "threshold": 0.9
+  },
+  "mount_invite_zero": {
+    "file": "templates/mount_invite_zero.png",
+    "source": "runtime/debug/20261012_202806_676167_mount_visit_unknown_state.png",
+    "crop_screenshot": [
+      478,
+      1451,
+      490,
+      1476
+    ],
+    "expected_rect_raw": [
+      478,
+      1451,
+      490,
+      1476
+    ],
+    "search_roi_raw": [
+      465,
+      1430,
+      503,
+      1485
+    ],
+    "threshold": 0.9
+  },
+  "top_gift_inner_alt": {
+    "file": "templates/top_gift_inner_alt.png",
+    "source": "user_queue.png normalized game",
+    "expected_rect_raw": [
+      333,
+      157,
+      393,
+      191
+    ],
+    "search_roi_raw": [
+      280,
+      120,
+      445,
+      330
+    ],
+    "threshold": 0.82
+  },
+  "activity_entry": {
+    "file": "templates/activity_entry.png",
+    "source": "main.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      396,
+      190,
+      431,
+      238
+    ],
+    "expected_rect_raw": [
+      643,
+      276,
+      700,
+      355
+    ],
+    "search_roi_raw": [
+      600,
+      240,
+      726,
+      450
+    ],
+    "threshold": 0.84
+  },
+  "page_activity": {
+    "file": "templates/page_activity.png",
+    "source": "events.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      194,
+      87,
+      249,
+      115
+    ],
+    "expected_rect_raw": [
+      315,
+      108,
+      404,
+      154
+    ],
+    "search_roi_raw": [
+      260,
+      70,
+      465,
+      280
+    ],
+    "threshold": 0.84
+  },
+  "chest_activity_tab": {
+    "file": "templates/chest_activity_tab.png",
+    "source": "invasion.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      284,
+      954,
+      356,
+      973
+    ],
+    "expected_rect_raw": [
+      461,
+      1525,
+      578,
+      1556
+    ],
+    "search_roi_raw": [
+      125,
+      1460,
+      726,
+      1590
+    ],
+    "threshold": 0.84
+  },
+  "page_chest_activity": {
+    "file": "templates/page_chest_activity.png",
+    "source": "clash.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      109,
+      140,
+      334,
+      190
+    ],
+    "expected_rect_raw": [
+      177,
+      194,
+      542,
+      276
+    ],
+    "search_roi_raw": [
+      120,
+      160,
+      620,
+      320
+    ],
+    "threshold": 0.84
+  },
+  "chest_go": {
+    "file": "templates/chest_go.png",
+    "source": "clash.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      201,
+      846,
+      248,
+      867
+    ],
+    "expected_rect_raw": [
+      326,
+      1348,
+      403,
+      1383
+    ],
+    "search_roi_raw": [
+      260,
+      1320,
+      490,
+      1440
+    ],
+    "threshold": 0.84
+  },
+  "page_chest_target": {
+    "file": "templates/page_chest_target.png",
+    "source": "target.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      152,
+      255,
+      285,
+      273
+    ],
+    "expected_rect_raw": [
+      247,
+      382,
+      463,
+      412
+    ],
+    "search_roi_raw": [
+      200,
+      345,
+      550,
+      460
+    ],
+    "threshold": 0.84
+  },
+  "chest_attack": {
+    "file": "templates/chest_attack.png",
+    "source": "target.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      183,
+      365,
+      265,
+      397
+    ],
+    "expected_rect_raw": [
+      297,
+      562,
+      430,
+      615
+    ],
+    "search_roi_raw": [
+      180,
+      480,
+      550,
+      650
+    ],
+    "threshold": 0.84
+  },
+  "chest_equipment": {
+    "file": "templates/chest_equipment.png",
+    "source": "wu.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      358,
+      841,
+      434,
+      874
+    ],
+    "expected_rect_raw": [
+      581,
+      1340,
+      705,
+      1394
+    ],
+    "search_roi_raw": [
+      545,
+      1320,
+      720,
+      1420
+    ],
+    "threshold": 0.84
+  },
+  "chest_ratio_open": {
+    "file": "templates/chest_ratio_open.png",
+    "source": "wu.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      324,
+      793,
+      416,
+      815
+    ],
+    "expected_rect_raw": [
+      526,
+      1262,
+      676,
+      1298
+    ],
+    "search_roi_raw": [
+      480,
+      1230,
+      706,
+      1330
+    ],
+    "threshold": 0.84
+  },
+  "page_chest_ratio": {
+    "file": "templates/page_chest_ratio.png",
+    "source": "ratio.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      183,
+      299,
+      262,
+      321
+    ],
+    "expected_rect_raw": [
+      297,
+      454,
+      426,
+      490
+    ],
+    "search_roi_raw": [
+      250,
+      420,
+      470,
+      530
+    ],
+    "threshold": 0.84
+  },
+  "chest_ratio_confirm": {
+    "file": "templates/chest_ratio_confirm.png",
+    "source": "ratio.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      191,
+      658,
+      255,
+      684
+    ],
+    "expected_rect_raw": [
+      310,
+      1041,
+      414,
+      1084
+    ],
+    "search_roi_raw": [
+      220,
+      1010,
+      510,
+      1140
+    ],
+    "threshold": 0.84
+  },
+  "chest_depart": {
+    "file": "templates/chest_depart.png",
+    "source": "wu.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      201,
+      962,
+      244,
+      984
+    ],
+    "expected_rect_raw": [
+      326,
+      1538,
+      396,
+      1574
+    ],
+    "search_roi_raw": [
+      260,
+      1500,
+      480,
+      1600
+    ],
+    "threshold": 0.84
+  },
+  "chest_formation_shu": {
+    "file": "templates/chest_formation_shu.png",
+    "source": "shu.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      158,
+      75,
+      292,
+      103
+    ],
+    "expected_rect_raw": [
+      257,
+      88,
+      474,
+      134
+    ],
+    "search_roi_raw": [
+      210,
+      60,
+      530,
+      170
+    ],
+    "threshold": 0.84
+  },
+  "chest_formation_wu": {
+    "file": "templates/chest_formation_wu.png",
+    "source": "wu.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      158,
+      75,
+      292,
+      103
+    ],
+    "expected_rect_raw": [
+      257,
+      88,
+      474,
+      134
+    ],
+    "search_roi_raw": [
+      210,
+      60,
+      530,
+      170
+    ],
+    "threshold": 0.84
+  },
+  "chest_strength_shu": {
+    "file": "templates/chest_strength_shu.png",
+    "source": "clash.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      164,
+      250,
+      281,
+      279
+    ],
+    "expected_rect_raw": [
+      266,
+      374,
+      456,
+      422
+    ],
+    "search_roi_raw": [
+      245,
+      350,
+      495,
+      435
+    ],
+    "threshold": 0.84
+  },
+  "congrats_entry": {
+    "file": "templates/congrats_entry.png",
+    "source": "thumb.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      315,
+      891,
+      356,
+      924
+    ],
+    "expected_rect_raw": [
+      512,
+      1422,
+      578,
+      1476
+    ],
+    "search_roi_raw": [
+      490,
+      1380,
+      600,
+      1510
+    ],
+    "threshold": 0.84
+  },
+  "page_congrats": {
+    "file": "templates/page_congrats.png",
+    "source": "congrats.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      87,
+      855,
+      180,
+      874
+    ],
+    "expected_rect_raw": [
+      141,
+      1363,
+      292,
+      1394
+    ],
+    "search_roi_raw": [
+      95,
+      1300,
+      440,
+      1430
+    ],
+    "threshold": 0.84
+  },
+  "congrats_all": {
+    "file": "templates/congrats_all.png",
+    "source": "congrats.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      307,
+      779,
+      390,
+      811
+    ],
+    "expected_rect_raw": [
+      499,
+      1239,
+      633,
+      1291
+    ],
+    "search_roi_raw": [
+      430,
+      1190,
+      680,
+      1330
+    ],
+    "threshold": 0.84
+  },
+  "congrats_thumb": {
+    "file": "templates/congrats_thumb.png",
+    "source": "congrats.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      204,
+      718,
+      242,
+      758
+    ],
+    "expected_rect_raw": [
+      331,
+      1139,
+      393,
+      1204
+    ],
+    "search_roi_raw": [
+      230,
+      1060,
+      490,
+      1250
+    ],
+    "threshold": 0.84
+  },
+  "auto_join_checked": {
+    "file": "templates/auto_join_checked.png",
+    "source": "auto_limits.png normalized from user 2026-10-12 screenshots",
+    "crop_screenshot": [
+      37,
+      491,
+      64,
+      519
+    ],
+    "expected_rect_raw": [
+      60,
+      768,
+      104,
+      814
+    ],
+    "search_roi_raw": [
+      40,
+      700,
+      130,
+      945
+    ],
+    "threshold": 0.84
+  },
+  "auto_join_unchecked": {
+    "file": "templates/auto_join_unchecked.png",
+    "source": "user screenshot codex-clipboard-VmcO0W.png normalized game content",
+    "crop_screenshot": [
+      60,
+      768,
+      104,
+      814
+    ],
+    "expected_rect_raw": [
+      60,
+      768,
+      104,
+      814
+    ],
+    "search_roi_raw": [
+      40,
+      700,
+      130,
+      945
+    ],
+    "threshold": 0.84
+  },
+  "chest_equipment_blue": {
+    "file": "templates/chest_equipment_blue.png",
+    "source": "shu.png normalized user screenshot",
+    "crop_screenshot": [
+      358,
+      841,
+      434,
+      874
+    ],
+    "expected_rect_raw": [
+      581,
+      1340,
+      705,
+      1394
+    ],
+    "search_roi_raw": [
+      545,
+      1320,
+      720,
+      1420
+    ],
+    "threshold": 0.84
+  },
+  "resident_event_bubble": {
+    "file": "templates/resident_event_bubble.png",
+    "source": "user screenshot 2026-10-12 pasted-image-2683.png",
+    "crop_screenshot": [
+      48,
+      211,
+      103,
+      275
+    ],
+    "expected_rect_raw": [
+      78,
+      311,
+      167,
+      416
+    ],
+    "search_roi_raw": [
+      0,
+      120,
+      726,
+      1450
+    ],
+    "threshold": 0.84
+  },
+  "world_resource_popup_alt": {
+    "file": "templates/world_resource_popup_alt.png",
+    "source": "user screenshot 2026-10-12 pasted-image-6031.png",
+    "crop_screenshot": [
+      159,
+      151,
+      286,
+      203
+    ],
+    "expected_rect_raw": [
+      258,
+      213,
+      465,
+      298
+    ],
+    "search_roi_raw": [
+      110,
+      180,
+      620,
+      520
+    ],
+    "threshold": 0.82
+  },
+  "resource_collect_button_alt": {
+    "file": "templates/resource_collect_button_alt.png",
+    "source": "user screenshot 2026-10-12 pasted-image-6031.png",
+    "crop_screenshot": [
+      148,
+      351,
+      300,
+      400
+    ],
+    "expected_rect_raw": [
+      240,
+      540,
+      487,
+      621
+    ],
+    "search_roi_raw": [
+      180,
+      490,
+      545,
+      700
+    ],
+    "threshold": 0.84
+  },
+  "resource_collect_label": {
+    "file": "templates/resource_collect_label.png",
+    "source": "templates/resource_collect_button_alt.png (fixed text only)",
+    "crop_screenshot": [
+      91,
+      22,
+      154,
+      51
+    ],
+    "expected_rect_raw": [
+      331,
+      564,
+      394,
+      593
+    ],
+    "search_roi_raw": [
+      180,
+      450,
+      545,
+      710
+    ],
+    "threshold": 0.8
+  },
+  "page_resource_march_alt": {
+    "file": "templates/page_resource_march_alt.png",
+    "source": "user screenshot 2026-10-12 pasted-image-1412.png",
+    "crop_screenshot": [
+      154,
+      92,
+      293,
+      130
+    ],
+    "expected_rect_raw": [
+      250,
+      116,
+      476,
+      179
+    ],
+    "search_roi_raw": [
+      145,
+      95,
+      580,
+      245
+    ],
+    "threshold": 0.82
+  },
+  "beacon_bandit_popup": {
+    "file": "templates/beacon_bandit_popup.png",
+    "source": "user screenshot 2026-10-12 pasted-image-14048.png",
+    "crop_screenshot": [
+      78,
+      160,
+      369,
+      408
+    ],
+    "expected_rect_raw": [
+      127,
+      228,
+      599,
+      634
+    ],
+    "search_roi_raw": [
+      80,
+      150,
+      650,
+      760
+    ],
+    "threshold": 0.82
+  },
+  "beacon_bandit_attack_button": {
+    "file": "templates/beacon_bandit_attack_button.png",
+    "source": "user screenshot 2026-10-12 pasted-image-14048.png",
+    "crop_screenshot": [
+      148,
+      357,
+      300,
+      402
+    ],
+    "expected_rect_raw": [
+      240,
+      550,
+      487,
+      624
+    ],
+    "search_roi_raw": [
+      180,
+      500,
+      550,
+      720
+    ],
+    "threshold": 0.84
+  },
+  "beacon_battle_start_button": {
+    "file": "templates/beacon_battle_start_button.png",
+    "source": "user screenshot 2026-10-12 pasted-image-18640.png",
+    "crop_screenshot": [
+      247,
+      942,
+      382,
+      994
+    ],
+    "expected_rect_raw": [
+      401,
+      1508,
+      620,
+      1593
+    ],
+    "search_roi_raw": [
+      180,
+      1450,
+      600,
+      1600
+    ],
+    "threshold": 0.52
+  },
+  "beacon_battle_timer": {
+    "file": "templates/beacon_battle_timer.png",
+    "source": "user screenshot 2026-10-12 pasted-image-18640.png",
+    "crop_screenshot": [
+      166,
+      119,
+      283,
+      161
+    ],
+    "expected_rect_raw": [
+      270,
+      160,
+      460,
+      229
+    ],
+    "search_roi_raw": [
+      220,
+      80,
+      510,
+      270
+    ],
+    "threshold": 0.82
+  },
+  "beacon_check_badge_alt": {
+    "file": "templates/beacon_check_badge_alt.png",
+    "source": "user screenshot 2026-10-12 pasted-image-12631.png",
+    "crop_screenshot": [
+      184,
+      334,
+      211,
+      363
+    ],
+    "expected_rect_raw": [
+      299,
+      513,
+      343,
+      560
+    ],
+    "search_roi_raw": [
+      0,
+      250,
+      726,
+      1120
+    ],
+    "threshold": 0.78
+  },
+  "page_beacon_alt": {
+    "file": "templates/page_beacon_alt.png",
+    "source": "user screenshot 2026-10-12 pasted-image-5917.png",
+    "crop_screenshot": [
+      139,
+      116,
+      310,
+      160
+    ],
+    "expected_rect_raw": [
+      226,
+      156,
+      503,
+      228
+    ],
+    "search_roi_raw": [
+      160,
+      130,
+      555,
+      300
+    ],
+    "threshold": 0.88
+  },
+  "beacon_excavation_event": {
+    "file": "templates/beacon_excavation_event.png",
+    "source": "fht.mp4 at 0s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      159,
+      549,
+      191,
+      577
+    ],
+    "expected_rect_raw": [
+      260,
+      864,
+      312,
+      909
+    ],
+    "search_roi_raw": [
+      55,
+      340,
+      680,
+      1160
+    ],
+    "threshold": 0.86
+  },
+  "beacon_resource_detail": {
+    "file": "templates/beacon_resource_detail.png",
+    "source": "fht.mp4 at 1.6s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      15,
+      762,
+      76,
+      782
+    ],
+    "expected_rect_raw": [
+      25,
+      1211,
+      124,
+      1244
+    ],
+    "search_roi_raw": [
+      5,
+      1160,
+      300,
+      1320
+    ],
+    "threshold": 0.86
+  },
+  "beacon_excavation_detail": {
+    "file": "templates/beacon_excavation_detail.png",
+    "source": "fht.mp4 at 22s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      92,
+      790,
+      188,
+      815
+    ],
+    "expected_rect_raw": [
+      150,
+      1257,
+      307,
+      1298
+    ],
+    "search_roi_raw": [
+      130,
+      1200,
+      450,
+      1380
+    ],
+    "threshold": 0.86
+  },
+  "beacon_excavation_popup": {
+    "file": "templates/beacon_excavation_popup.png",
+    "source": "fht.mp4 at 23.5s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      213,
+      205,
+      292,
+      229
+    ],
+    "expected_rect_raw": [
+      348,
+      302,
+      477,
+      341
+    ],
+    "search_roi_raw": [
+      130,
+      210,
+      605,
+      710
+    ],
+    "threshold": 0.86
+  },
+  "beacon_excavation_button": {
+    "file": "templates/beacon_excavation_button.png",
+    "source": "fht.mp4 at 23.5s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      197,
+      362,
+      250,
+      386
+    ],
+    "expected_rect_raw": [
+      322,
+      558,
+      409,
+      598
+    ],
+    "search_roi_raw": [
+      130,
+      430,
+      590,
+      1050
+    ],
+    "threshold": 0.86
+  },
+  "beacon_depart_text": {
+    "file": "templates/beacon_depart_text.png",
+    "source": "fht.mp4 at 10s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      191,
+      961,
+      254,
+      982
+    ],
+    "expected_rect_raw": [
+      312,
+      1536,
+      415,
+      1571
+    ],
+    "search_roi_raw": [
+      210,
+      1500,
+      510,
+      1600
+    ],
+    "threshold": 0.86
+  },
+  "beacon_march_controls": {
+    "file": "templates/beacon_march_controls.png",
+    "source": "fht.mp4 at 10s; game viewport (0,20,444,1000)",
+    "crop_screenshot": [
+      17,
+      790,
+      145,
+      819
+    ],
+    "expected_rect_raw": [
+      28,
+      1257,
+      237,
+      1304
+    ],
+    "search_roi_raw": [
+      5,
+      1220,
+      300,
+      1380
+    ],
+    "threshold": 0.86
+  },
+  "beacon_camp_flag_shape": {
+    "file": "templates/beacon_camp_flag_shape.png",
+    "source": "beacon_event_rally_flag.png white flag mask",
+    "search_roi_raw": [
+      55,
+      340,
+      670,
+      1160
+    ],
+    "threshold": 0.7
+  },
+  "beacon_camp_detail": {
+    "file": "templates/beacon_camp_detail.png",
+    "source": "pasted-image-10601.png fixed camp label",
+    "search_roi_raw": [
+      100,
+      1130,
+      500,
+      1420
+    ],
+    "threshold": 0.82
+  },
+  "beacon_camp_popup": {
+    "file": "templates/beacon_camp_popup.png",
+    "source": "pasted-image-9041.png camp title",
+    "search_roi_raw": [
+      140,
+      200,
+      540,
+      400
+    ],
+    "threshold": 0.8
+  },
+  "beacon_rally_modal": {
+    "file": "templates/beacon_rally_modal.png",
+    "source": "pasted-image-16066.png rally title",
+    "search_roi_raw": [
+      220,
+      530,
+      500,
+      730
+    ],
+    "threshold": 0.82
+  },
+  "beacon_rally_3min": {
+    "file": "templates/beacon_rally_3min.png",
+    "source": "pasted-image-16066.png checked 3 minute option",
+    "search_roi_raw": [
+      40,
+      740,
+      280,
+      920
+    ],
+    "threshold": 0.82
+  },
+  "beacon_rally_start_label": {
+    "file": "templates/beacon_rally_start_label.png",
+    "source": "pasted-image-16066.png start rally button",
+    "search_roi_raw": [
+      190,
+      890,
+      530,
+      1100
+    ],
+    "threshold": 0.82
+  },
+  "beacon_rally_depart_10_label": {
+    "file": "templates/beacon_rally_depart_10_label.png",
+    "source": "pasted-image-4748.png depart 10 label",
+    "search_roi_raw": [
+      190,
+      1480,
+      530,
+      1600
+    ],
+    "threshold": 0.82
+  },
+  "lubu_war": {
+    "file": "templates/lubu_war.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      230,
+      130,
+      480,
+      240
+    ],
+    "expected_rect_raw": [
+      302,
+      175,
+      428,
+      209
+    ],
+    "source": "Video_2026-10-12_202021.mp4 18s",
+    "crop_screenshot": [
+      185,
+      127,
+      262,
+      148
+    ]
+  },
+  "lubu_card": {
+    "file": "templates/lubu_card.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      490,
+      250,
+      700,
+      1280
+    ],
+    "expected_rect_raw": [
+      527,
+      346,
+      666,
+      392
+    ],
+    "source": "Video_2026-10-12_202021.mp4 18s",
+    "crop_screenshot": [
+      322,
+      232,
+      407,
+      260
+    ]
+  },
+  "lubu_join": {
+    "file": "templates/lubu_join.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      395,
+      300,
+      520,
+      1260
+    ],
+    "expected_rect_raw": [
+      443,
+      408,
+      497,
+      442
+    ],
+    "source": "Video_2026-10-12_202021.mp4 18s",
+    "crop_screenshot": [
+      271,
+      270,
+      304,
+      291
+    ]
+  },
+  "lubu_march_target": {
+    "file": "templates/lubu_march_target.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      200,
+      140,
+      520,
+      290
+    ],
+    "expected_rect_raw": [
+      270,
+      198,
+      456,
+      251
+    ],
+    "source": "Video_2026-10-12_202021.mp4 36s",
+    "crop_screenshot": [
+      165,
+      141,
+      279,
+      174
+    ]
+  },
+  "lubu_march_controls": {
+    "file": "templates/lubu_march_controls.png",
+    "threshold": 0.77,
+    "search_roi_raw": [
+      440,
+      1200,
+      715,
+      1340
+    ],
+    "expected_rect_raw": [
+      492,
+      1259,
+      700,
+      1303
+    ],
+    "source": "Video_2026-10-12_202021.mp4 36s",
+    "crop_screenshot": [
+      301,
+      791,
+      428,
+      818
+    ]
+  },
+  "lubu_depart": {
+    "file": "templates/lubu_depart.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      210,
+      1500,
+      510,
+      1600
+    ],
+    "expected_rect_raw": [
+      320,
+      1541,
+      410,
+      1574
+    ],
+    "source": "Video_2026-10-12_202021.mp4 36s",
+    "crop_screenshot": [
+      196,
+      964,
+      251,
+      984
+    ]
+  },
+  "lubu_ratio": {
+    "file": "templates/lubu_ratio.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      230,
+      440,
+      490,
+      580
+    ],
+    "expected_rect_raw": [
+      301,
+      498,
+      433,
+      534
+    ],
+    "source": "Video_2026-10-12_202021.mp4 12s",
+    "crop_screenshot": [
+      184,
+      325,
+      265,
+      347
+    ]
+  },
+  "lubu_ratio_confirm": {
+    "file": "templates/lubu_ratio_confirm.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      250,
+      1020,
+      480,
+      1190
+    ],
+    "expected_rect_raw": [
+      325,
+      1089,
+      407,
+      1125
+    ],
+    "source": "Video_2026-10-12_202021.mp4 12s",
+    "crop_screenshot": [
+      199,
+      687,
+      249,
+      709
+    ]
+  },
+  "lubu_map_detail": {
+    "file": "templates/lubu_map_detail.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      60,
+      350,
+      680,
+      1370
+    ],
+    "expected_rect_raw": [
+      280,
+      1172,
+      476,
+      1236
+    ],
+    "source": "Video_2026-10-12_202021.mp4 3s",
+    "crop_screenshot": [
+      171,
+      738,
+      291,
+      777
+    ]
+  },
+  "lubu_map_rally": {
+    "file": "templates/lubu_map_rally.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      300,
+      400,
+      700,
+      1450
+    ],
+    "expected_rect_raw": [
+      437,
+      1301,
+      509,
+      1337
+    ],
+    "source": "Video_2026-10-12_202021.mp4 3s",
+    "crop_screenshot": [
+      267,
+      817,
+      311,
+      839
+    ]
+  },
+  "lubu_start_dialog": {
+    "file": "templates/lubu_start_dialog.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      200,
+      540,
+      520,
+      750
+    ],
+    "expected_rect_raw": [
+      307,
+      620,
+      427,
+      656
+    ],
+    "source": "Video_2026-10-12_202021.mp4 5s",
+    "crop_screenshot": [
+      188,
+      400,
+      261,
+      422
+    ]
+  },
+  "lubu_start_three": {
+    "file": "templates/lubu_start_three.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      40,
+      800,
+      270,
+      960
+    ],
+    "expected_rect_raw": [
+      82,
+      849,
+      216,
+      890
+    ],
+    "source": "Video_2026-10-12_202021.mp4 5s",
+    "crop_screenshot": [
+      50,
+      540,
+      132,
+      565
+    ]
+  },
+  "lubu_start": {
+    "file": "templates/lubu_start.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      180,
+      920,
+      530,
+      1110
+    ],
+    "expected_rect_raw": [
+      363,
+      986,
+      432,
+      1022
+    ],
+    "source": "Video_2026-10-12_202021.mp4 5s",
+    "crop_screenshot": [
+      222,
+      624,
+      264,
+      646
+    ]
+  },
+  "lubu_header": {
+    "file": "templates/lubu_header.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      50,
+      300,
+      150,
+      650
+    ],
+    "expected_rect_raw": [
+      69,
+      472,
+      128,
+      500
+    ],
+    "source": "Video_2026-10-12_202021.mp4 75s",
+    "crop_screenshot": [
+      42,
+      309,
+      78,
+      326
+    ]
+  },
+  "lubu_activity_header": {
+    "file": "templates/lubu_activity_header.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      45,
+      390,
+      170,
+      1110
+    ],
+    "expected_rect_raw": [
+      69,
+      908,
+      126,
+      937
+    ],
+    "source": "Video_2026-10-12_202021.mp4 75s",
+    "crop_screenshot": [
+      42,
+      576,
+      77,
+      594
+    ]
+  },
+  "lubu_event_label": {
+    "file": "templates/lubu_event_label.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      0,
+      250,
+      726,
+      1400
+    ],
+    "expected_rect_raw": [
+      355,
+      1001,
+      504,
+      1022
+    ],
+    "source": "Video_2026-10-12_202021.mp4 1050s",
+    "crop_screenshot": [
+      217,
+      633,
+      308,
+      646
+    ]
+  },
+  "lubu_cooldown": {
+    "file": "templates/lubu_cooldown.png",
+    "threshold": 0.86,
+    "search_roi_raw": [
+      0,
+      250,
+      726,
+      1400
+    ],
+    "expected_rect_raw": [
+      332,
+      950,
+      409,
+      976
+    ],
+    "source": "Video_2026-10-12_202021.mp4 1076s",
+    "crop_screenshot": [
+      203,
+      602,
+      250,
+      618
+    ]
+  },
+  "lubu_equipment": {
+    "file": "templates/lubu_equipment.png",
+    "source": "Video_2026-10-12_202021.mp4 6s",
+    "crop_screenshot": [
+      345,
+      830,
+      410,
+      875
+    ],
+    "expected_rect_raw": [
+      564,
+      1322,
+      670,
+      1396
+    ],
+    "search_roi_raw": [
+      540,
+      1280,
+      700,
+      1420
+    ],
+    "threshold": 0.86
+  },
+  "lubu_buff": {
+    "file": "templates/lubu_buff.png",
+    "threshold": 0.68,
+    "search_roi_raw": [
+      60,
+      180,
+      520,
+      300
+    ],
+    "expected_rect_raw": [
+      74,
+      204,
+      458,
+      260
+    ],
+    "source": "Video_2026-10-12_202021.mp4 6s",
+    "crop_screenshot": [
+      45,
+      145,
+      280,
+      179
+    ]
+  },
+  "beacon_march_queue_modal": {
+    "file": "templates/beacon_march_queue_modal.png",
+    "source": "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\codex-clipboard-CxbKGK.png",
+    "crop_screenshot": [
+      220,
+      574,
+      500,
+      638
+    ],
+    "expected_rect_raw": [
+      220,
+      574,
+      500,
+      638
+    ],
+    "search_roi_raw": [
+      175,
+      535,
+      555,
+      680
+    ],
+    "threshold": 0.86
+  },
+  "beacon_march_queue_close": {
+    "file": "templates/beacon_march_queue_close.png",
+    "source": "C:\\Users\\ThinkPad\\AppData\\Local\\Temp\\codex-clipboard-CxbKGK.png",
+    "crop_screenshot": [
+      655,
+      580,
+      695,
+      625
+    ],
+    "expected_rect_raw": [
+      655,
+      580,
+      695,
+      625
+    ],
+    "search_roi_raw": [
+      630,
+      550,
+      715,
+      670
+    ],
+    "threshold": 0.82
+  },
+  "beacon_subjugate_button": {
+    "file": "templates/beacon_subjugate_button.png",
+    "source": "runtime\\debug\\20261013_141214_624398_beacon_subjugate_button_missing.png",
+    "crop_screenshot": [
+      246,
+      555,
+      481,
+      618
+    ],
+    "expected_rect_raw": [
+      246,
+      555,
+      481,
+      618
+    ],
+    "search_roi_raw": [
+      210,
+      520,
+      520,
+      670
+    ],
+    "threshold": 0.76
+  },
+  "beacon_bandit_formation_start": {
+    "file": "templates/beacon_bandit_formation_start.png",
+    "source": "runtime/debug/20261013_135740_515496_beacon_battle_start_missing.png",
+    "crop_screenshot": [
+      412,
+      1510,
+      614,
+      1572
+    ],
+    "expected_rect_raw": [
+      412,
+      1510,
+      614,
+      1572
+    ],
+    "search_roi_raw": [
+      370,
+      1450,
+      680,
+      1595
+    ],
+    "threshold": 0.7
+  },
+  "beacon_bandit_victory_return": {
+    "file": "templates/beacon_bandit_victory_return.png",
+    "source": "codex-clipboard-ZM151q.png",
+    "crop_screenshot": [
+      192,
+      743,
+      317,
+      774
+    ],
+    "expected_rect_raw": [
+      312,
+      1188,
+      515,
+      1237
+    ],
+    "search_roi_raw": [
+      270,
+      1120,
+      550,
+      1320
+    ],
+    "threshold": 0.7
+  },
+  "beacon_raider_title": {
+    "file": "templates/beacon_raider_title.png",
+    "source": "codex-clipboard-t8gruz.png",
+    "crop_screenshot": [
+      168,
+      179,
+      216,
+      207
+    ],
+    "expected_rect_raw": [
+      273,
+      286,
+      351,
+      331
+    ],
+    "search_roi_raw": [
+      250,
+      250,
+      430,
+      365
+    ],
+    "threshold": 0.68
+  },
+  "beacon_raid_attack_button": {
+    "file": "templates/beacon_raid_attack_button.png",
+    "source": "codex-clipboard-t8gruz.png",
+    "crop_screenshot": [
+      158,
+      358,
+      290,
+      402
+    ],
+    "expected_rect_raw": [
+      257,
+      572,
+      471,
+      643
+    ],
+    "search_roi_raw": [
+      220,
+      520,
+      510,
+      690
+    ],
+    "threshold": 0.7
+  },
+  "beacon_raid_depart_button": {
+    "file": "templates/beacon_raid_depart_button.png",
+    "source": "runtime/debug/20261013_143440_416118_beacon_raid_formation_start_missing.png",
+    "crop_screenshot": [
+      305,
+      1541,
+      430,
+      1582
+    ],
+    "expected_rect_raw": [
+      305,
+      1541,
+      430,
+      1582
+    ],
+    "search_roi_raw": [
+      225,
+      1490,
+      500,
+      1598
+    ],
+    "threshold": 0.78
+  },
+  "minxin_entry_tip": {
+    "file": "templates/minxin_entry_tip.png",
+    "source": "codex-clipboard-X98uOA.png",
+    "crop_screenshot": [
+      210,
+      98,
+      239,
+      113
+    ],
+    "source_game_top": 20,
+    "search_roi_raw": [
+      315,
+      65,
+      420,
+      175
+    ],
+    "threshold": 0.78
+  },
+  "page_minxin": {
+    "file": "templates/page_minxin.png",
+    "source": "codex-clipboard-35UkcG.png",
+    "crop_screenshot": [
+      162,
+      160,
+      283,
+      217
+    ],
+    "source_game_top": 20,
+    "search_roi_raw": [
+      220,
+      195,
+      495,
+      350
+    ],
+    "threshold": 0.86
+  },
+  "minxin_skill_cost": {
+    "file": "templates/minxin_skill_cost.png",
+    "source": "codex-clipboard-2HoPPY.png",
+    "crop_screenshot": [
+      20,
+      479,
+      426,
+      501
+    ],
+    "source_game_top": 20,
+    "search_roi_raw": [
+      15,
+      715,
+      710,
+      825
+    ],
+    "threshold": 0.88
+  },
+  "minxin_activate": {
+    "file": "templates/minxin_activate.png",
+    "source": "codex-clipboard-2HoPPY.png",
+    "crop_screenshot": [
+      163,
+      638,
+      284,
+      670
+    ],
+    "source_game_top": 20,
+    "search_roi_raw": [
+      160,
+      950,
+      560,
+      1110
+    ],
+    "threshold": 0.84
+  },
+  "minxin_entry_tip_alt": {
+    "file": "templates/minxin_entry_tip_alt.png",
+    "source": "runtime/debug/20261013_172131_553170_minxin_entry_missing.png",
+    "crop_frame": [
+      341,
+      128,
+      388,
+      152
+    ],
+    "search_roi_raw": [
+      315,
+      65,
+      420,
+      175
+    ],
+    "threshold": 0.76
+  },
+  "tech_hand_tutorial": {
+    "file": "templates/tech_hand_tutorial.png",
+    "source": "codex-clipboard-4U3GIy.png",
+    "crop_frame": [
+      316,
+      740,
+      354,
+      786
+    ],
+    "search_roi_raw": [
+      270,
+      690,
+      400,
+      850
+    ],
+    "threshold": 0.72
+  },
+  "barracks_training_hand": {
+    "file": "templates/barracks_training_hand.png",
+    "source": "runtime/debug/20261013_172330_696142_queue_training_modal_unconfirmed.png",
+    "crop_frame": [
+      448,
+      842,
+      551,
+      969
+    ],
+    "search_roi_raw": [
+      415,
+      805,
+      590,
+      1010
+    ],
+    "threshold": 0.74
+  },
+  "barracks_training_hand_alt": {
+    "file": "templates/barracks_training_hand_alt.png",
+    "source": "codex-clipboard-JBCOQK.png",
+    "crop_frame": [
+      482,
+      880,
+      592,
+      1035
+    ],
+    "search_roi_raw": [
+      430,
+      820,
+      640,
+      1080
+    ],
+    "threshold": 0.78
+  },
+  "popup_forge_offer_close": {
+    "file": "templates/popup_forge_offer_close.png",
+    "source": "codex-clipboard-WmEHRy.png (user screenshot 2026-10-13)",
+    "crop_screenshot": [
+      378,
+      232,
+      413,
+      270
+    ],
+    "expected_rect_raw": [
+      614,
+      371,
+      671,
+      432
+    ],
+    "search_roi_raw": [
+      568,
+      296,
+      711,
+      719
+    ],
+    "threshold": 0.82
+  },
+  "popup_alliance_bulletin_close": {
+    "file": "templates/popup_alliance_bulletin_close.png",
+    "source": "codex-clipboard-T8YMkr.png (user screenshot 2026-10-13)",
+    "crop_screenshot": [
+      394,
+      286,
+      420,
+      318
+    ],
+    "expected_rect_raw": [
+      640,
+      457,
+      682,
+      508
+    ],
+    "search_roi_raw": [
+      568,
+      392,
+      711,
+      743
+    ],
+    "threshold": 0.82
+  },
+  "training_claim_bubble_1": {
+    "file": "templates/training_claim_bubble_1.png",
+    "source": "user screenshot 2026-10-13 codex-clipboard-QwsLuC.png, barracks claim bubble variant",
+    "crop_screenshot": [
+      50,
+      347,
+      98,
+      402
+    ],
+    "expected_rect_raw": [
+      81,
+      555,
+      159,
+      643
+    ],
+    "search_roi_raw": [
+      0,
+      240,
+      726,
+      1320
+    ],
+    "threshold": 0.76
+  },
+  "training_claim_bubble_2": {
+    "file": "templates/training_claim_bubble_2.png",
+    "source": "user screenshot 2026-10-13 codex-clipboard-QwsLuC.png, barracks claim bubble variant",
+    "crop_screenshot": [
+      166,
+      430,
+      214,
+      485
+    ],
+    "expected_rect_raw": [
+      270,
+      687,
+      348,
+      775
+    ],
+    "search_roi_raw": [
+      0,
+      240,
+      726,
+      1320
+    ],
+    "threshold": 0.76
+  },
+  "training_claim_bubble_3": {
+    "file": "templates/training_claim_bubble_3.png",
+    "source": "user screenshot 2026-10-13 codex-clipboard-QwsLuC.png, barracks claim bubble variant",
+    "crop_screenshot": [
+      319,
+      342,
+      368,
+      399
+    ],
+    "expected_rect_raw": [
+      518,
+      547,
+      598,
+      638
+    ],
+    "search_roi_raw": [
+      0,
+      240,
+      726,
+      1320
+    ],
+    "threshold": 0.76
+  },
+  "mount_name_2": {
+    "file": "templates/mount_name_2.png",
+    "source": "user screenshot 2026-10-13 codex-clipboard-NvMw3j.png, 养马场 nameplate",
+    "crop_screenshot": [
+      260,
+      816,
+      324,
+      852
+    ],
+    "expected_rect_raw": [
+      422,
+      1304,
+      526,
+      1362
+    ],
+    "search_roi_raw": [
+      20,
+      350,
+      690,
+      1500
+    ],
+    "threshold": 0.82
+  },
+  "training_claim_guide_hand": {
+    "file": "templates/training_claim_guide_hand.png",
+    "source": "codex-clipboard-BdcHjo.png; game area excludes 21px window title",
+    "crop_screenshot": [
+      235,
+      447,
+      315,
+      538
+    ],
+    "expected_rect_raw": [
+      382,
+      696,
+      512,
+      845
+    ],
+    "search_roi_raw": [
+      60,
+      300,
+      670,
+      1250
+    ],
+    "threshold": 0.86
+  },
+  "beacon_dispatched_blue_pin": {
+    "file": "templates/beacon_dispatched_blue_pin.png",
+    "source": "runtime/debug/20261013_215236_166439_beacon_page_after_event.png; dispatched resource after confirmed march",
+    "crop_screenshot": [
+      117,
+      640,
+      170,
+      717
+    ],
+    "expected_rect_raw": [
+      117,
+      640,
+      170,
+      717
+    ],
+    "search_roi_raw": [
+      50,
+      350,
+      680,
+      1160
+    ],
+    "threshold": 0.84
+  },
+  "beacon_resource_in_progress": {
+    "file": "templates/beacon_resource_in_progress.png",
+    "source": "runtime/debug/20261013_215252_120045_beacon_resource_popup_missing.png; selected resource card shows ongoing state",
+    "crop_screenshot": [
+      595,
+      1294,
+      710,
+      1335
+    ],
+    "expected_rect_raw": [
+      595,
+      1294,
+      710,
+      1335
+    ],
+    "search_roi_raw": [
+      550,
+      1240,
+      725,
+      1390
+    ],
+    "threshold": 0.84
+  },
+  "beacon_resource_gold_live": {
+    "file": "templates/beacon_resource_gold_live.png",
+    "source": "runtime/debug/20261013_215236_166439_beacon_page_after_event.png; still actionable gold resource pin",
+    "crop_screenshot": [
+      208,
+      697,
+      261,
+      779
+    ],
+    "expected_rect_raw": [
+      208,
+      697,
+      261,
+      779
+    ],
+    "search_roi_raw": [
+      50,
+      350,
+      680,
+      1160
+    ],
+    "threshold": 0.78
+  },
+  "main_beacon_hold_banner": {
+    "file": "templates/main_beacon_hold_banner.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-RfpemW.png",
+    "crop_screenshot": [
+      332,
+      182,
+      368,
+      218
+    ],
+    "expected_rect_raw": [
+      540,
+      264,
+      599,
+      323
+    ],
+    "search_roi_raw": [
+      450,
+      100,
+      705,
+      700
+    ],
+    "threshold": 0.84,
+    "notes": "User 2026-10-14; normalized client x0..446 y20..1000; excludes title and dynamic countdown. Positive screenshot only, live confirmation required."
+  },
+  "recruit_free_green_text": {
+    "file": "templates/recruit_free_green_text.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-HateC9.png",
+    "crop_screenshot": [
+      114,
+      808,
+      155,
+      829
+    ],
+    "expected_rect_raw": [
+      186,
+      1287,
+      252,
+      1321
+    ],
+    "search_roi_raw": [
+      40,
+      950,
+      685,
+      1390
+    ],
+    "threshold": 0.87,
+    "notes": "User 2026-10-14; normalized client x0..446 y20..1000; excludes title and dynamic countdown. Positive screenshot only, live confirmation required."
+  },
+  "recruit_tab_regular": {
+    "file": "templates/recruit_tab_regular.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-HateC9.png",
+    "crop_screenshot": [
+      259,
+      886,
+      395,
+      913
+    ],
+    "expected_rect_raw": [
+      422,
+      1414,
+      643,
+      1458
+    ],
+    "search_roi_raw": [
+      340,
+      1360,
+      700,
+      1520
+    ],
+    "threshold": 0.8,
+    "notes": "User 2026-10-14; normalized client x0..446 y20..1000; excludes title and dynamic countdown. Positive screenshot only, live confirmation required."
+  },
+  "recruit_tab_awaken": {
+    "file": "templates/recruit_tab_awaken.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-kjDUi5.png",
+    "crop_screenshot": [
+      87,
+      885,
+      209,
+      912
+    ],
+    "expected_rect_raw": [
+      142,
+      1412,
+      340,
+      1456
+    ],
+    "search_roi_raw": [
+      30,
+      1360,
+      360,
+      1520
+    ],
+    "threshold": 0.8,
+    "notes": "User 2026-10-14; normalized client x0..446 y20..1000; excludes title and dynamic countdown. Positive screenshot only, live confirmation required."
+  },
+  "recruit_regular_heading": {
+    "file": "templates/recruit_regular_heading.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-kjDUi5.png",
+    "crop_screenshot": [
+      240,
+      426,
+      404,
+      453
+    ],
+    "expected_rect_raw": [
+      391,
+      663,
+      658,
+      707
+    ],
+    "search_roi_raw": [
+      330,
+      590,
+      700,
+      850
+    ],
+    "threshold": 0.82,
+    "notes": "User screenshot 2026-10-14; client x0..446 y20..1000. Check page heading after tab action."
+  },
+  "recruit_awaken_heading": {
+    "file": "templates/recruit_awaken_heading.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-HateC9.png",
+    "crop_screenshot": [
+      101,
+      679,
+      345,
+      743
+    ],
+    "expected_rect_raw": [
+      164,
+      1076,
+      562,
+      1180
+    ],
+    "search_roi_raw": [
+      100,
+      980,
+      660,
+      1250
+    ],
+    "threshold": 0.82,
+    "notes": "User screenshot 2026-10-14; client x0..446 y20..1000. Check page heading after tab action."
+  },
+  "recruit_tab_regular_active": {
+    "file": "templates/recruit_tab_regular_active.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-kjDUi5.png",
+    "crop_screenshot": [
+      271,
+      883,
+      398,
+      914
+    ],
+    "expected_rect_raw": [
+      441,
+      1409,
+      648,
+      1460
+    ],
+    "search_roi_raw": [
+      340,
+      1360,
+      700,
+      1520
+    ],
+    "threshold": 0.82,
+    "notes": "User screenshot 2026-10-14; client x0..446 y20..1000. Check page heading after tab action."
+  },
+  "recruit_tab_awaken_active": {
+    "file": "templates/recruit_tab_awaken_active.png",
+    "source": "templates_capture\\user_20261014\\codex-clipboard-HateC9.png",
+    "crop_screenshot": [
+      84,
+      883,
+      207,
+      914
+    ],
+    "expected_rect_raw": [
+      137,
+      1409,
+      337,
+      1460
+    ],
+    "search_roi_raw": [
+      30,
+      1360,
+      360,
+      1520
+    ],
+    "threshold": 0.82,
+    "notes": "User screenshot 2026-10-14; client x0..446 y20..1000. Check page heading after tab action."
+  },
+  "douyin_home_icon": {
+    "file": "templates/douyin_home_icon.png",
+    "source": "templates_capture/user_20261015/douyin_home_icon.png",
+    "crop_frame": [
+      349,
+      884,
+      399,
+      935
+    ],
+    "search_roi_raw": [
+      535,
+      1330,
+      685,
+      1550
+    ],
+    "threshold": 0.82
+  },
+  "douyin_product_title": {
+    "file": "templates/douyin_product_title.png",
+    "source": "templates_capture/user_20261015/douyin_product_title.png",
+    "crop_frame": [
+      18,
+      61,
+      126,
+      91
+    ],
+    "search_roi_raw": [
+      0,
+      65,
+      255,
+      200
+    ],
+    "threshold": 0.79
+  },
+  "douyin_search_bar": {
+    "file": "templates/douyin_search_bar.png",
+    "source": "templates_capture/user_20261015/douyin_search_bar.png",
+    "crop_frame": [
+      66,
+      269,
+      403,
+      320
+    ],
+    "search_roi_raw": [
+      70,
+      385,
+      685,
+      570
+    ],
+    "threshold": 0.79
+  },
+  "douyin_live_prompt": {
+    "file": "templates/douyin_live_prompt.png",
+    "source": "templates_capture/user_20261015/douyin_live_prompt.png",
+    "crop_frame": [
+      119,
+      677,
+      327,
+      727
+    ],
+    "search_roi_raw": [
+      150,
+      1030,
+      565,
+      1250
+    ],
+    "threshold": 0.8
+  },
+  "douyin_feed_menu": {
+    "file": "templates/douyin_feed_menu.png",
+    "source": "templates_capture/user_20261015/douyin_feed_menu.png",
+    "crop_frame": [
+      15,
+      64,
+      48,
+      105
+    ],
+    "search_roi_raw": [
+      0,
+      60,
+      115,
+      225
+    ],
+    "threshold": 0.81
+  },
+  "douyin_menu_heading": {
+    "file": "templates/douyin_menu_heading.png",
+    "source": "templates_capture/user_20261015/douyin_menu_heading.png",
+    "crop_frame": [
+      29,
+      376,
+      149,
+      416
+    ],
+    "search_roi_raw": [
+      0,
+      550,
+      300,
+      760
+    ],
+    "threshold": 0.82
+  },
+  "douyin_game_icon": {
+    "file": "templates/douyin_game_icon.png",
+    "source": "templates_capture/user_20261015/douyin_game_icon.png",
+    "crop_frame": [
+      49,
+      423,
+      111,
+      485
+    ],
+    "search_roi_raw": [
+      0,
+      615,
+      250,
+      865
+    ],
+    "threshold": 0.82
+  },
+  "wechat_miniapp_home": {
+    "file": "templates/wechat_miniapp_home.png",
+    "source": "templates_capture/user_20261015/wechat_miniapp_home.png",
+    "crop_frame": [
+      394,
+      63,
+      421,
+      91
+    ],
+    "search_roi_raw": [
+      620,
+      65,
+      725,
+      195
+    ],
+    "threshold": 0.85
+  },
+  "training_promote_button": {
+    "file": "templates/training_promote_button.png",
+    "source": "runtime/debug/20261015_112105_982534_queue_training_modal_unconfirmed.png",
+    "crop_frame": [
+      530,
+      1363,
+      665,
+      1447
+    ],
+    "search_roi_raw": [
+      475,
+      1320,
+      720,
+      1475
+    ],
+    "threshold": 0.84
+  },
+  "training_promote_arrow": {
+    "file": "templates/training_promote_arrow.png",
+    "source": "runtime/debug/20261015_112105_982534_queue_training_modal_unconfirmed.png",
+    "crop_frame": [
+      466,
+      868,
+      507,
+      925
+    ],
+    "search_roi_raw": [
+      0,
+      830,
+      726,
+      1120
+    ],
+    "threshold": 0.84
+  },
+  "training_sheet_back": {
+    "file": "templates/training_sheet_back.png",
+    "source": "runtime/debug/20261015_112105_982534_queue_training_modal_unconfirmed.png",
+    "crop_frame": [
+      27,
+      1503,
+      137,
+      1595
+    ],
+    "search_roi_raw": [
+      0,
+      1450,
+      180,
+      1600
+    ],
+    "threshold": 0.86
+  },
+  "training_promote_arrow_inner": {
+    "file": "templates/training_promote_arrow_inner.png",
+    "source": "runtime/debug/20261015_112105_982534_queue_training_modal_unconfirmed.png",
+    "crop_frame": [
+      471,
+      868,
+      505,
+      910
+    ],
+    "search_roi_raw": [
+      0,
+      830,
+      726,
+      1120
+    ],
+    "threshold": 0.82
+  },
+  "mount_reward_zero": {
+    "file": "templates/mount_reward_zero.png",
+    "source": "runtime/debug/20261015_114652_479200_mount_visit_unknown_state.png",
+    "crop_frame": [
+      225,
+      1435,
+      535,
+      1495
+    ],
+    "search_roi_raw": [
+      190,
+      1400,
+      560,
+      1510
+    ],
+    "threshold": 0.94
+  }
+}

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+
+# Local configuration and credentials
+config.json
+.env
+.env.*
+!.env.example
+打开手机游戏窗口.bat
+horse_race_user_avatar.png
+
+# Runtime state, account data, logs, learned samples and debug captures
+runtime/
+*.log
+debug_click/
+horse_race_debug/
+
+# Large recordings and archives
+Video_*.mp4
+*.zip
+
+# Historical capture material and local tooling caches
+templates_capture/
+templates_capture_v3/
+templates_capture_v4/
+templates_capture_v5/
+horse_race_capture/
+.adb-home/
+Microsoft/
+sites/
+
+# Private development notes and generated capture scripts
+AGENTS.md
+CODEX_TOKEN_SAVING_STRATEGY.md
+AUTOMATION_FIXES_20261014.md
+tasks_capture.py
+template_capture.py
+
+# Temporary image outputs
+detect_result.png
+green_mask.png
+test.png

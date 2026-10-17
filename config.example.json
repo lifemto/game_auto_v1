@@ -1,0 +1,14 @@
+{
+  "device_serial": "",
+  "adb_path": "C:\\platform-tools\\adb.exe",
+  "scrcpy_server_path": "C:\\scrcpy\\scrcpy-server",
+  "max_fps": 60,
+  "max_size": 1600,
+  "video_bit_rate": 8000000,
+  "task_order": [
+    "alliance",
+    "crusade",
+    "recruit",
+    "resident_event"
+  ]
+}
